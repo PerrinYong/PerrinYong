@@ -52,21 +52,6 @@ https://github.com/PilotDeckAgentLabs/PilotDeck
 
 ---
 
-### 🎵 SongHelper
-
-**An AI-assisted toolbox for song creation and music workflow engineering.**
-
-SongHelper is a long-term workspace for turning music creation workflows into reusable tools.
-
-- Song structure and lyric assistance
-- BPM, beat, key, chord, and section analysis
-- Vocal / instrumental processing workflow
-- LRC, MIDI, MusicXML, ABC, and melody workflow foundations
-
-Repository:  
-https://github.com/PerrinYong/SongHelper
-
----
 
 ## Engineering background
 
