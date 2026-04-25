@@ -67,53 +67,15 @@ https://github.com/PerrinYong/SongHelper
 
 ---
 
-### 🎬 VideoArtWorkflow
-
-**An automation skeleton for AI-assisted video art production.**
-
-VideoArtWorkflow organizes the process from aesthetic design to image prompts, video prompts, asset generation, and post-processing.
-
-- Visual concept and aesthetic baseline management
-- Image / video prompt workflow
-- Segment-based workspace management
-- Image processing and watermark-removal infrastructure
-
-Repository:  
-https://github.com/PerrinYong/VideoArtWorkflow
-
----
-
-### 📚 CreatClassicsTruth
-
-**A high-fidelity fact extraction framework for Chinese classical novels.**
-
-This project explores how to turn literary source text into structured truth layers, summaries, timelines, and graph-ready data.
-
-Repository:  
-https://github.com/PerrinYong/CreatClassicsTruth
-
----
-
-### 📊 Chinese Independent Developer Insights
-
-**AI-assisted analysis for independent developer projects in China.**
-
-A data and analysis project for understanding independent developer projects, product directions, feature patterns, and market inspiration.
-
-Repository:  
-https://github.com/PerrinYong/chinese-independent-developer-insights
-
----
-
 ## Engineering background
 
-I have 5 years of experience in the game development technology supplier space, focusing on:
+I have 6 years of experience in the game development technology supplier space, focusing on:
 
 - CI/CD and automated testing systems
 - Unity / Unreal / Cocos tooling
 - Android / iOS / Windows / WebGL cross-platform engineering
 - Desktop tools and SaaS-related local tooling
-- Crash / ANR / error monitoring and reporting plugins
+- Crash monitoring and reporting plugins
 - ToB technical support, deployment, troubleshooting, technical demos, and user training
 
 Previously, I worked on engineering tools such as:
@@ -128,19 +90,12 @@ Previously, I worked on engineering tools such as:
 ## Tech stack
 
 **Languages**
-
 C# / C++ / Python / Java / JavaScript / TypeScript
-
 **Engineering**
-
 Jenkins / CI/CD / automated testing / desktop tools / SaaS tooling / cross-language integration
-
 **Game & runtime**
-
 Unity3D / Unreal Engine / Cocos / Android / iOS / Windows / WebGL
-
 **Current interests**
-
 AI Agent frameworks / OpenCode plugins / prompt projection / AgentOps / ProjectOps / creative AI tooling
 
 ---
