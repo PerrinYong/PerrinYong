@@ -23,13 +23,6 @@ I care about tools that are not only clever, but also **runnable, maintainable, 
 CrewBee turns scattered prompts, rules, and collaboration conventions into maintainable Agent Team assets.  
 Current focus: making Team-based agent systems portable, composable, and runnable inside OpenCode.
 
-- Team-first Agent / Team model
-- Host-agnostic definitions
-- Runtime projection layer
-- OpenCode adapter and plugin runtime
-- Agent profile to prompt projection
-- Delegation and collaboration semantics
-
 Repository:  
 https://github.com/CrewBeeLab/CrewBee
 
@@ -40,12 +33,6 @@ https://github.com/CrewBeeLab/CrewBee
 **A lightweight ProjectOps × AgentOps console for individual developers and internal teams.**
 
 PilotDeck focuses on project progress, auditability, agent collaboration, and token/cost visibility.
-
-- Project / run / event / action tracking
-- Append-only timeline for auditability
-- Agent action API
-- Lightweight self-hosting with Flask + Vue + SQLite
-- Cost and usage observability
 
 Repository:  
 https://github.com/PilotDeckAgentLabs/PilotDeck
