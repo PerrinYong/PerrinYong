@@ -63,12 +63,19 @@ Previously, I worked on engineering tools such as:
 ## Tech stack
 
 **Languages**
+
 C# / C++ / Python / Java / JavaScript / TypeScript
+
 **Engineering**
+
 Jenkins / CI/CD / automated testing / desktop tools / SaaS tooling / cross-language integration
+
 **Game & runtime**
+
 Unity3D / Unreal Engine / Cocos / Android / iOS / Windows / WebGL
+
 **Current interests**
+
 AI Agent frameworks / OpenCode plugins / prompt projection / AgentOps / ProjectOps / creative AI tooling
 
 ---
