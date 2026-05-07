@@ -16,9 +16,7 @@ I care about tools that are not only clever, but also **runnable, maintainable, 
 ## What I'm building
 
 ### 🐝 CrewBee
-<img width="1536" height="1024" alt="crewbee-intro" src="https://github.com/user-attachments/assets/5364501a-439b-42db-8396-3fb2e971c181" />
-
-**Team-first agent engineering for real host runtimes.**
+<img width="1362" height="897" alt="web-home-cn" src="https://github.com/user-attachments/assets/98fe6356-8b8c-40c2-a659-88f693f1600f" />
 
 CrewBee turns scattered prompts, rules, and collaboration conventions into maintainable Agent Team assets.  
 Current focus: making Team-based agent systems portable, composable, and runnable inside OpenCode.
