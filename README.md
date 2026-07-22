@@ -22,8 +22,7 @@ It is available for OpenCode today, with a built-in Coding Team designed for own
 
 ## What I share
 
-- **Engineering across boundaries** — cross-platform integration, SDKs, engine tooling, runtime compatibility, and diagnostics
-- **Developer infrastructure** — CI/CD, automated testing, delivery workflows, observability, and engineering efficiency
+- **Engineering across boundaries** — cross-platform integration, SDKs, engine tooling, CI/CD, testing, diagnostics, and reliable delivery
 - **Reliable agents in real work** — responsibility boundaries, tool use, review, validation, governance, and reusable Agent Teams
 - **From workflow to product** — turning ambiguous processes into maintainable systems shaped by real feedback
 
