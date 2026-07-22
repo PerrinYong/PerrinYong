@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-    <img src="./assets/hero-light.svg" alt="Yong — a cross-platform software engineer and product builder, turning complex workflows into reliable software through quiet, structured engineering." width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-oriental-dark.svg" />
+    <img src="./assets/hero-oriental-light.svg" alt="Yong — a cross-platform software engineer and product builder, turning complex workflows into reliable software through quiet, structured engineering." width="100%" />
   </picture>
 </p>
 
@@ -28,8 +28,8 @@ For 6+ years, I have built CI/CD and automated testing systems, engine tooling, 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/capability-map-dark.svg" />
-    <img src="./assets/capability-map-light.svg" alt="Capability map connecting cross-language, cross-platform, engine and runtime, delivery systems, and agent workflows to reliable software." width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/capability-topology-dark.svg" />
+    <img src="./assets/capability-topology-light.svg" alt="Capability map connecting cross-language, cross-platform, engine and runtime, delivery systems, and agent workflows to reliable software." width="100%" />
   </picture>
 </p>
 
@@ -41,8 +41,8 @@ For 6+ years, I have built CI/CD and automated testing systems, engine tooling, 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/featured-systems-dark.svg" />
-    <img src="./assets/featured-systems-light.svg" alt="CrewBee and PilotDeck presented as complementary systems: maintainable Agent Teams and observable Agent work." width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/featured-systems-oriental-dark.svg" />
+    <img src="./assets/featured-systems-oriental-light.svg" alt="CrewBee and PilotDeck presented as complementary systems: maintainable Agent Teams and observable Agent work." width="100%" />
   </picture>
 </p>
 
@@ -60,8 +60,8 @@ Together, they express two sides of the same direction: CrewBee makes Agent Team
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/system-pulse-dark.svg" />
-    <img src="./assets/generated/system-pulse-light.svg" alt="Current focus, featured systems, engineering lens, operating principle, and latest public CrewBee release." width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/system-pulse-quiet-dark.svg" />
+    <img src="./assets/generated/system-pulse-quiet-light.svg" alt="Current focus, featured systems, engineering lens, operating principle, and latest public CrewBee release." width="100%" />
   </picture>
 </p>
 

@@ -203,10 +203,10 @@ def main() -> None:
     config = load_config()
     release = latest_release(config["release_repo"], config["release_fallback"])
     for name, colors in THEMES.items():
-        write(ROOT / "assets" / f"hero-{name}.svg", render_hero(colors))
-        write(ROOT / "assets" / f"capability-map-{name}.svg", render_capability_map(colors))
-        write(ROOT / "assets" / f"featured-systems-{name}.svg", render_featured_systems(colors))
-        write(GENERATED_DIR / f"system-pulse-{name}.svg", render_pulse(colors, config, release))
+        write(ROOT / "assets" / f"hero-oriental-{name}.svg", render_hero(colors))
+        write(ROOT / "assets" / f"capability-topology-{name}.svg", render_capability_map(colors))
+        write(ROOT / "assets" / f"featured-systems-oriental-{name}.svg", render_featured_systems(colors))
+        write(GENERATED_DIR / f"system-pulse-quiet-{name}.svg", render_pulse(colors, config, release))
 
 
 if __name__ == "__main__":
