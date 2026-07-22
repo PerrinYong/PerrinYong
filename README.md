@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/hero-engineering-shanshui-light-v2.png" alt="A restrained engineering topology merging with pale East Asian mountain forms, paper texture, blue-gray structure lines, and subtle warm accents." width="78%" />
+</p>
+
 <h1 align="center">Hi, I'm Yong</h1>
 
 <p align="center">
@@ -18,10 +22,6 @@ I build where software gets difficult: at the boundaries between languages, runt
 For 6+ years, I have built CI/CD and automated testing systems, engine tooling, SDKs, plugins, and diagnostics across Unity, Unreal, Cocos, Android, iOS, Windows, and WebGL. Today, I apply the same engineering discipline to AI-assisted development: explicit responsibilities, observable execution, independent review, and verifiable completion.
 
 > **AI is an engineering multiplier—not a substitute for software engineering fundamentals.**
-
-<p align="center">
-  <img src="./assets/hero-engineering-shanshui-light-v2.png" alt="A restrained engineering topology merging with pale East Asian mountain forms, paper texture, blue-gray structure lines, and subtle warm accents." width="78%" />
-</p>
 
 ## Engineering across boundaries
 
