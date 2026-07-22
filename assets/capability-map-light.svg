@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Yong's capability map</title>
+  <desc id="desc">Five engineering capability groups connect to a central reliable software outcome.</desc>
+  <defs>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f879d"/>
+      <stop offset="1" stop-color="#5d55be"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#7890a5" fill-opacity=".14"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#445f72" flood-opacity=".12"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="380" rx="20" fill="#f8fafc"/>
+  <rect width="1200" height="380" rx="20" fill="url(#dots)"/>
+
+  <g fill="none" stroke="#9eb4c5" stroke-width="1.4">
+    <path d="M314 104C422 104 440 170 515 177"/>
+    <path d="M314 278C424 278 439 216 515 204"/>
+    <path d="M886 104C777 104 760 169 685 177"/>
+    <path d="M886 278C776 278 759 217 685 204"/>
+    <path d="M600 92V147" stroke="#b79662"/>
+  </g>
+  <g fill="#f8fafc" stroke-width="2">
+    <circle cx="515" cy="177" r="5" stroke="#0f879d"/>
+    <circle cx="515" cy="204" r="5" stroke="#0f879d"/>
+    <circle cx="685" cy="177" r="5" stroke="#6656c7"/>
+    <circle cx="685" cy="204" r="5" stroke="#6656c7"/>
+    <circle cx="600" cy="147" r="5" stroke="#d18a2c"/>
+  </g>
+
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" filter="url(#shadow)">
+    <g transform="translate(48 57)">
+      <rect width="266" height="94" rx="14" fill="#ffffff" stroke="#c8d7e1"/>
+      <rect width="5" height="94" rx="2.5" fill="#168da4"/>
+      <text x="24" y="31" fill="#153044" font-size="13" font-weight="700" letter-spacing="1.4">CROSS-LANGUAGE</text>
+      <text x="24" y="58" fill="#556d7e" font-size="13">C# · C++ · Java · Python</text>
+      <text x="24" y="78" fill="#7890a1" font-size="11">Native bridges · SDK contracts</text>
+    </g>
+    <g transform="translate(48 231)">
+      <rect width="266" height="94" rx="14" fill="#ffffff" stroke="#c8d7e1"/>
+      <rect width="5" height="94" rx="2.5" fill="#168da4"/>
+      <text x="24" y="31" fill="#153044" font-size="13" font-weight="700" letter-spacing="1.4">CROSS-PLATFORM</text>
+      <text x="24" y="58" fill="#556d7e" font-size="13">Windows · Android · iOS · WebGL</text>
+      <text x="24" y="78" fill="#7890a1" font-size="11">Compatibility · Delivery constraints</text>
+    </g>
+    <g transform="translate(886 57)">
+      <rect width="266" height="94" rx="14" fill="#ffffff" stroke="#d4cde8"/>
+      <rect x="261" width="5" height="94" rx="2.5" fill="#6656c7"/>
+      <text x="24" y="31" fill="#153044" font-size="13" font-weight="700" letter-spacing="1.4">DELIVERY SYSTEMS</text>
+      <text x="24" y="58" fill="#556d7e" font-size="13">CI/CD · Testing · Diagnostics</text>
+      <text x="24" y="78" fill="#7890a1" font-size="11">Observability · Verifiable completion</text>
+    </g>
+    <g transform="translate(886 231)">
+      <rect width="266" height="94" rx="14" fill="#ffffff" stroke="#d4cde8"/>
+      <rect x="261" width="5" height="94" rx="2.5" fill="#6656c7"/>
+      <text x="24" y="31" fill="#153044" font-size="13" font-weight="700" letter-spacing="1.4">AGENT WORKFLOWS</text>
+      <text x="24" y="58" fill="#556d7e" font-size="13">Responsibilities · Tools · Review</text>
+      <text x="24" y="78" fill="#7890a1" font-size="11">Governance · Durable context</text>
+    </g>
+    <g transform="translate(467 20)">
+      <rect width="266" height="72" rx="14" fill="#fffdf8" stroke="#e3d1b4"/>
+      <rect y="67" width="266" height="5" rx="2.5" fill="#d18a2c"/>
+      <text x="133" y="29" text-anchor="middle" fill="#153044" font-size="13" font-weight="700" letter-spacing="1.4">ENGINE &amp; RUNTIME</text>
+      <text x="133" y="52" text-anchor="middle" fill="#647788" font-size="12">Unity · Unreal · Cocos · Native · Web</text>
+    </g>
+  </g>
+
+  <g transform="translate(500 147)" filter="url(#shadow)" font-family="Segoe UI, Inter, Arial, sans-serif">
+    <rect width="200" height="88" rx="44" fill="url(#core)"/>
+    <text x="100" y="39" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="750" letter-spacing="1.5">RELIABLE SOFTWARE</text>
+    <text x="100" y="62" text-anchor="middle" fill="#d9f4f7" font-family="Consolas, monospace" font-size="10">UNDERSTAND · TEST · REVIEW</text>
+  </g>
+
+  <text x="600" y="356" text-anchor="middle" fill="#718697" font-family="Consolas, monospace" font-size="11" letter-spacing="1">BOUNDARIES BECOME EXPLICIT INTERFACES</text>
+  <rect x=".5" y=".5" width="1199" height="379" rx="19.5" fill="none" stroke="#d2dde5"/>
+</svg>

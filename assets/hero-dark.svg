@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Yong — Engineering Across Boundaries</title>
+  <desc id="desc">A calm technical landscape of connected system layers, expressing the transformation of complex workflows into reliable software.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="1" stop-color="#0d1c2d"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#41c6dc"/>
+      <stop offset="0.58" stop-color="#9b8cff"/>
+      <stop offset="1" stop-color="#efb45e"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#87a1b7" stroke-opacity=".08"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <path d="M0 304C208 250 367 335 574 286S950 224 1200 274V360H0Z" fill="#10263a" fill-opacity=".65"/>
+
+  <g transform="translate(64 52)">
+    <g font-family="Segoe UI, Inter, Arial, sans-serif">
+      <text x="0" y="18" fill="#54cadc" font-size="13" font-weight="700" letter-spacing="3">YONG / ENGINEERING SYSTEMS</text>
+      <text x="0" y="86" fill="#f2f7fb" font-size="43" font-weight="680" letter-spacing="-.8">Turning complex workflows</text>
+      <text x="0" y="137" fill="#f2f7fb" font-size="43" font-weight="680" letter-spacing="-.8">into reliable software.</text>
+      <text x="1" y="181" fill="#9fb2c3" font-size="17">Cross-Platform Software Engineer &amp; Product Builder</text>
+      <g transform="translate(0 214)" font-family="Consolas, SFMono-Regular, monospace" font-size="12" font-weight="600" letter-spacing=".8">
+        <rect width="406" height="36" rx="18" fill="#0b1726" stroke="#294156"/>
+        <circle cx="20" cy="18" r="4" fill="#41c6dc"/>
+        <text x="34" y="22" fill="#afc0ce">LANGUAGES · PLATFORMS · ENGINES · PRODUCTS</text>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(720 43)">
+    <path d="M8 246C94 195 123 205 188 141S315 81 421 27" fill="none" stroke="url(#signal)" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
+    <path d="M8 246C98 249 150 227 213 188S347 145 434 139" fill="none" stroke="#41c6dc" stroke-opacity=".28" stroke-width="1.5" stroke-dasharray="5 8"/>
+    <path d="M82 86C149 110 198 96 260 52S371 27 441 56" fill="none" stroke="#9b8cff" stroke-opacity=".25" stroke-width="1.5" stroke-dasharray="4 9"/>
+
+    <g font-family="Consolas, SFMono-Regular, monospace" font-size="11" font-weight="600">
+      <g transform="translate(0 225)">
+        <rect width="150" height="46" rx="10" fill="#0b1726" stroke="#28485a"/>
+        <circle cx="18" cy="17" r="4" fill="#41c6dc"/><text x="31" y="21" fill="#dce8ef">LANGUAGE</text>
+        <text x="18" y="37" fill="#7891a5" font-size="9">C# · C++ · JAVA · PY</text>
+      </g>
+      <g transform="translate(103 151)">
+        <rect width="152" height="46" rx="10" fill="#0b1726" stroke="#4b4274"/>
+        <circle cx="18" cy="17" r="4" fill="#9b8cff"/><text x="31" y="21" fill="#dce8ef">RUNTIME</text>
+        <text x="18" y="37" fill="#7891a5" font-size="9">NATIVE · MANAGED · WEB</text>
+      </g>
+      <g transform="translate(205 84)">
+        <rect width="152" height="46" rx="10" fill="#0b1726" stroke="#28485a"/>
+        <circle cx="18" cy="17" r="4" fill="#41c6dc"/><text x="31" y="21" fill="#dce8ef">PLATFORM</text>
+        <text x="18" y="37" fill="#7891a5" font-size="9">DESKTOP · MOBILE · WEBGL</text>
+      </g>
+      <g transform="translate(313 15)">
+        <rect width="152" height="46" rx="10" fill="#0b1726" stroke="#695335"/>
+        <circle cx="18" cy="17" r="4" fill="#efb45e"/><text x="31" y="21" fill="#dce8ef">PRODUCT</text>
+        <text x="18" y="37" fill="#7891a5" font-size="9">WORKFLOW · DELIVERY</text>
+      </g>
+    </g>
+
+    <g fill="#07111f" stroke-width="2">
+      <circle cx="8" cy="246" r="6" stroke="#41c6dc"/>
+      <circle cx="188" cy="141" r="6" stroke="#9b8cff"/>
+      <circle cx="421" cy="27" r="6" stroke="#efb45e"/>
+    </g>
+    <g transform="translate(274 218)">
+      <rect width="186" height="39" rx="19.5" fill="#151934" stroke="#4b4274"/>
+      <circle cx="20" cy="19.5" r="4" fill="#9b8cff"/>
+      <text x="34" y="24" fill="#c8beff" font-family="Consolas, monospace" font-size="10" font-weight="700" letter-spacing=".5">AI / AUTOMATION LAYER</text>
+    </g>
+  </g>
+
+  <rect x=".5" y=".5" width="1199" height="359" rx="23.5" fill="none" stroke="#20384c"/>
+</svg>

@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="assets/profile-banner.jpg" alt="Abstract bridges connecting layered software systems under a dusk constellation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+    <img src="./assets/hero-light.svg" alt="Yong — Cross-Platform Software Engineer and Product Builder. Turning complex workflows into reliable software." width="100%" />
+  </picture>
 </p>
-
-<h1 align="center">Hi, I'm Yong</h1>
 
 <p align="center">
   <strong>Cross-Platform Software Engineer &amp; Product Builder</strong><br />
@@ -11,45 +12,51 @@
 
 <p align="center">
   <a href="https://github.com/CrewBeeLab/CrewBee">CrewBee</a> ·
-  <a href="https://www.crewbee.art">Website</a> ·
-  <a href="https://github.com/PilotDeckAgentLabs/PilotDeck">PilotDeck</a>
+  <a href="https://github.com/PilotDeckAgentLabs/PilotDeck">PilotDeck</a> ·
+  <a href="https://www.crewbee.art">Website</a>
 </p>
 
 ---
 
 I build where software gets difficult: at the boundaries between languages, runtimes, platforms, delivery environments, and human–agent collaboration.
 
-For 6+ years, I have built CI/CD and automated testing systems, engine tooling, SDKs, plugins, and diagnostics across Unity, Unreal, Cocos, Android, iOS, Windows, and WebGL.
+For 6+ years, I have built CI/CD and automated testing systems, engine tooling, SDKs, plugins, and diagnostics across Unity, Unreal, Cocos, Android, iOS, Windows, and WebGL. Today, I apply the same engineering discipline to AI-assisted development: explicit responsibilities, observable execution, independent review, and verifiable completion.
 
-Today, I apply the same engineering discipline to AI-assisted development: explicit responsibilities, observable execution, independent review, and verifiable completion.
+> **AI is an engineering multiplier—not a substitute for software engineering fundamentals.**
+
+## Capability map
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/capability-map-dark.svg" />
+    <img src="./assets/capability-map-light.svg" alt="Capability map connecting cross-language, cross-platform, engine and runtime, delivery systems, and agent workflows to reliable software." width="100%" />
+  </picture>
+</p>
 
 <p align="center">
   <code>complex workflow → explicit model → reliable system → reusable asset</code>
 </p>
 
-> AI is an engineering multiplier—not a substitute for software engineering fundamentals.
+## Selected systems
 
-## What I build
+| [CrewBee](https://github.com/CrewBeeLab/CrewBee) | [PilotDeck](https://github.com/PilotDeckAgentLabs/PilotDeck) |
+| --- | --- |
+| **Maintainable Agent Teams** | **Observable Agent Work** |
+| Turns prompts, agents, rules, review flows, and completion criteria into reusable engineering assets. | Brings projects, runs, events, actions, audit trails, and token costs into one lightweight ProjectOps × AgentOps console. |
+| [Repository](https://github.com/CrewBeeLab/CrewBee) · [Website](https://www.crewbee.art) · [Install](https://github.com/CrewBeeLab/CrewBee/blob/main/docs/guide/installation.md) | [Repository](https://github.com/PilotDeckAgentLabs/PilotDeck) |
 
-| Engineering across boundaries | Developer infrastructure | Reliable agent systems |
-| --- | --- | --- |
-| Cross-language integration, SDKs, engine tooling, native plugins, and runtime compatibility | CI/CD, automated testing, delivery workflows, diagnostics, observability, and engineering efficiency | Agent Teams, responsibility and tool boundaries, review, validation, governance, and durable context |
+Together, they express two sides of the same direction: CrewBee makes Agent Teams maintainable and reusable; PilotDeck makes their work visible, reviewable, and easier to govern.
 
-## Selected work
+## System pulse
 
-### [CrewBee](https://github.com/CrewBeeLab/CrewBee)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/system-pulse-dark.svg" />
+    <img src="./assets/generated/system-pulse-light.svg" alt="Current focus, featured systems, engineering lens, operating principle, and latest public CrewBee release." width="100%" />
+  </picture>
+</p>
 
-An Agent Team asset layer that turns prompts, agents, rules, review flows, and completion criteria into maintainable engineering assets.
-
-CrewBee is available for OpenCode today. Its built-in Coding Team supports owner-led work, focused implementation, independent review, and evidence-backed completion—without making multi-agent collaboration a ritual for every task.
-
-**Explore:** [Repository](https://github.com/CrewBeeLab/CrewBee) · [Website](https://www.crewbee.art) · [Installation](https://github.com/CrewBeeLab/CrewBee/blob/main/docs/guide/installation.md)
-
-### [PilotDeck](https://github.com/PilotDeckAgentLabs/PilotDeck)
-
-A lightweight ProjectOps × AgentOps console for individual developers and internal teams. It brings projects, runs, events, actions, audit trails, and token costs into one observable operating layer.
-
-Together, CrewBee and PilotDeck express two sides of the same direction: CrewBee makes Agent Teams maintainable and reusable; PilotDeck makes their work visible, reviewable, and easier to govern.
+<sub>The pulse is generated from a reviewed local configuration plus public GitHub release data. Core profile assets are stored in this repository.</sub>
 
 ## What I share
 
@@ -63,4 +70,18 @@ Together, CrewBee and PilotDeck express two sides of the same direction: CrewBee
 
 I care about software that can be understood, tested, reviewed, operated, and improved—not just demonstrated once.
 
-If that sounds like your kind of engineering, follow along—or start with [CrewBee](https://github.com/CrewBeeLab/CrewBee).
+<details>
+  <summary><strong>Engineering toolbox</strong></summary>
+  <br />
+
+  **Languages:** C# · C++ · Java · Python · JavaScript / TypeScript<br />
+  **Platforms:** Windows · Android · iOS · WebGL<br />
+  **Engines:** Unity · Unreal · Cocos<br />
+  **Systems:** CI/CD · Automated testing · SDKs · Native plugins · Diagnostics · Observability · Agent review workflows
+</details>
+
+---
+
+<p align="center">
+  If this is your kind of engineering, follow along—or start with <a href="https://github.com/CrewBeeLab/CrewBee">CrewBee</a> and <a href="https://github.com/PilotDeckAgentLabs/PilotDeck">PilotDeck</a>.
+</p>
