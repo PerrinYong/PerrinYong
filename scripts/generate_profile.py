@@ -66,44 +66,6 @@ def frame(c: dict[str, str], width: int, height: int) -> str:
   <rect x=".5" y=".5" width="{width - 1}" height="{height - 1}" rx="17.5" fill="none" stroke="{c['line']}"/>'''
 
 
-def render_hero(c: dict[str, str]) -> str:
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
-  <title id="title">Yong — Engineering Across Boundaries</title>
-  <desc id="desc">A quiet ink-line engineering topology connects languages, runtimes, platforms, and products.</desc>
-  {frame(c, 1200, 380)}
-  <path d="M0 319C176 291 286 336 438 310S730 264 904 292s198 5 296-20v108H0Z" fill="{c['surface']}" fill-opacity=".72"/>
-  <g font-family="IBM Plex Sans, Inter, Segoe UI, Arial, sans-serif">
-    <text x="64" y="66" fill="{c['blue']}" font-size="12" font-weight="650" letter-spacing="3.2">YONG / ENGINEERING ACROSS BOUNDARIES</text>
-    <text x="64" y="132" fill="{c['text']}" font-size="43" font-weight="650" letter-spacing="-.8">Turning complex workflows</text>
-    <text x="64" y="183" fill="{c['text']}" font-size="43" font-weight="650" letter-spacing="-.8">into reliable software.</text>
-    <text x="65" y="226" fill="{c['muted']}" font-size="16">Cross-Platform Software Engineer &amp; Product Builder</text>
-    <line x1="65" y1="254" x2="286" y2="254" stroke="{c['line']}"/>
-    <circle cx="65" cy="254" r="3.5" fill="{c['red']}"/>
-    <text x="65" y="282" fill="{c['muted']}" font-family="IBM Plex Mono, Consolas, monospace" font-size="10" letter-spacing="1.2">QUIET SYSTEMS · CLEAR STRUCTURE · RELIABLE OUTCOMES</text>
-  </g>
-
-  <g transform="translate(695 38)" fill="none" stroke-linecap="round">
-    <path d="M2 270C96 241 113 193 188 184s113-52 164-92 86-50 143-64" stroke="{c['blue']}" stroke-width="1.5"/>
-    <path d="M0 292C72 268 132 268 201 224s133-41 194-66 86-20 110-19" stroke="{c['blue2']}" stroke-opacity=".58" stroke-width="1"/>
-    <path d="M41 120C106 145 151 136 221 91s124-40 181-14 86 20 111 7" stroke="{c['line']}" stroke-width="1"/>
-    <path d="M88 62C137 77 192 64 253 35s111-22 176-2" stroke="{c['line']}" stroke-opacity=".72" stroke-width=".8"/>
-    <path d="M57 236C105 224 143 227 188 184" stroke="{c['line']}" stroke-dasharray="3 8"/>
-    <path d="M352 92C392 80 441 69 491 32" stroke="{c['gold']}" stroke-opacity=".62" stroke-dasharray="3 8"/>
-  </g>
-
-  <g font-family="IBM Plex Mono, Consolas, monospace" font-size="9" letter-spacing="1.1">
-    <g transform="translate(716 296)"><circle r="5" fill="{c['bg']}" stroke="{c['blue']}" stroke-width="1.6"/><text x="14" y="4" fill="{c['muted']}">LANGUAGE</text></g>
-    <g transform="translate(883 222)"><circle r="5" fill="{c['bg']}" stroke="{c['blue']}" stroke-width="1.6"/><text x="14" y="4" fill="{c['muted']}">RUNTIME</text></g>
-    <g transform="translate(1047 130)"><circle r="5" fill="{c['bg']}" stroke="{c['blue2']}" stroke-width="1.6"/><text x="14" y="4" fill="{c['muted']}">PLATFORM</text></g>
-    <g transform="translate(1173 66)"><circle r="5" fill="{c['red']}"/><text x="-14" y="-12" text-anchor="end" fill="{c['gold']}">PRODUCT</text></g>
-  </g>
-
-  <line x1="64" y1="332" x2="1136" y2="332" stroke="{c['line']}"/>
-  <text x="64" y="354" fill="{c['muted']}" font-family="IBM Plex Mono, Consolas, monospace" font-size="9" letter-spacing="1.2">LANGUAGES / PLATFORMS / ENGINES / PRODUCTS</text>
-  <text x="1136" y="354" text-anchor="end" fill="{c['muted']}" font-family="IBM Plex Mono, Consolas, monospace" font-size="9" letter-spacing="1.2">AI: MULTIPLIER, NOT FOUNDATION</text>
-</svg>'''
-
-
 def render_capability_map(c: dict[str, str]) -> str:
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
   <title id="title">Capability topology</title>
@@ -203,7 +165,6 @@ def main() -> None:
     config = load_config()
     release = latest_release(config["release_repo"], config["release_fallback"])
     for name, colors in THEMES.items():
-        write(ROOT / "assets" / f"hero-oriental-{name}.svg", render_hero(colors))
         write(ROOT / "assets" / f"capability-topology-{name}.svg", render_capability_map(colors))
         write(ROOT / "assets" / f"featured-systems-oriental-{name}.svg", render_featured_systems(colors))
         write(GENERATED_DIR / f"system-pulse-quiet-{name}.svg", render_pulse(colors, config, release))

@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-oriental-dark.svg" />
-    <img src="./assets/hero-oriental-light.svg" alt="Yong — a cross-platform software engineer and product builder, turning complex workflows into reliable software through quiet, structured engineering." width="100%" />
-  </picture>
+  <img src="./assets/hero-engineering-shanshui-v1.png" alt="An abstract engineering topology merging with restrained East Asian mountain forms in deep ink-black and blue-gray." width="100%" />
 </p>
 
 <p align="center">
