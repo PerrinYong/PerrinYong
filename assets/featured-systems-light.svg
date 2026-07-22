@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Featured systems</title>
+  <desc id="desc">CrewBee and PilotDeck presented as two complementary engineering systems.</desc>
+  <defs>
+    <pattern id="paper" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M0 35.5H36M35.5 0V36" fill="none" stroke="#C9C4BA" stroke-opacity=".11" stroke-width=".6"/>
+      <circle cx="6" cy="8" r=".65" fill="#6F7A85" fill-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="330" rx="18" fill="#F6F4EF"/>
+  <rect width="1200" height="330" rx="18" fill="url(#paper)"/>
+  <rect x=".5" y=".5" width="1199" height="329" rx="17.5" fill="none" stroke="#C9C4BA"/>
+  <text x="52" y="48" fill="#5D7B8A" font-family="IBM Plex Mono, Consolas, monospace" font-size="10" letter-spacing="2.4">FEATURED SYSTEMS / 02</text>
+  <line x1="600" y1="72" x2="600" y2="278" stroke="#C9C4BA"/>
+  <g font-family="IBM Plex Sans, Inter, Segoe UI, Arial, sans-serif">
+    <g transform="translate(54 82)">
+      <text x="0" y="32" fill="#C9C4BA" font-size="48" font-weight="300">01</text>
+      <circle cx="492" cy="22" r="4" fill="#5D7B8A"/>
+      <text x="0" y="78" fill="#1B2128" font-size="25" font-weight="650">CrewBee</text>
+      <text x="0" y="108" fill="#5D7B8A" font-size="11" font-weight="650" letter-spacing="1.5">MAINTAINABLE AGENT TEAMS</text>
+      <text x="0" y="147" fill="#6F7A85" font-size="13">Prompts, roles, review, and completion criteria</text>
+      <text x="0" y="169" fill="#6F7A85" font-size="13">shaped into reusable engineering assets.</text>
+      <line x1="0" y1="199" x2="492" y2="199" stroke="#C9C4BA"/>
+      <text x="0" y="224" fill="#6F7A85" font-family="IBM Plex Mono, Consolas, monospace" font-size="9" letter-spacing="1.2">ASSET LAYER · REVIEW · VERIFIABLE COMPLETION</text>
+    </g>
+    <g transform="translate(654 82)">
+      <text x="0" y="32" fill="#C9C4BA" font-size="48" font-weight="300">02</text>
+      <circle cx="492" cy="22" r="4" fill="#A55E46"/>
+      <text x="0" y="78" fill="#1B2128" font-size="25" font-weight="650">PilotDeck</text>
+      <text x="0" y="108" fill="#9C7C58" font-size="11" font-weight="650" letter-spacing="1.5">OBSERVABLE AGENT WORK</text>
+      <text x="0" y="147" fill="#6F7A85" font-size="13">Projects, runs, events, audit trails, and costs</text>
+      <text x="0" y="169" fill="#6F7A85" font-size="13">shaped into a lightweight operating layer.</text>
+      <line x1="0" y1="199" x2="492" y2="199" stroke="#C9C4BA"/>
+      <text x="0" y="224" fill="#6F7A85" font-family="IBM Plex Mono, Consolas, monospace" font-size="9" letter-spacing="1.2">PROJECTOPS × AGENTOPS · AUDIT · COST VISIBILITY</text>
+    </g>
+  </g>
+</svg>

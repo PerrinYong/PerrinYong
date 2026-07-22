@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-    <img src="./assets/hero-light.svg" alt="Yong — Cross-Platform Software Engineer and Product Builder. Turning complex workflows into reliable software." width="100%" />
+    <img src="./assets/hero-light.svg" alt="Yong — a cross-platform software engineer and product builder, turning complex workflows into reliable software through quiet, structured engineering." width="100%" />
   </picture>
 </p>
 
@@ -24,7 +24,7 @@ For 6+ years, I have built CI/CD and automated testing systems, engine tooling, 
 
 > **AI is an engineering multiplier—not a substitute for software engineering fundamentals.**
 
-## Capability map
+## Engineering across boundaries
 
 <p align="center">
   <picture>
@@ -39,11 +39,20 @@ For 6+ years, I have built CI/CD and automated testing systems, engine tooling, 
 
 ## Selected systems
 
-| [CrewBee](https://github.com/CrewBeeLab/CrewBee) | [PilotDeck](https://github.com/PilotDeckAgentLabs/PilotDeck) |
-| --- | --- |
-| **Maintainable Agent Teams** | **Observable Agent Work** |
-| Turns prompts, agents, rules, review flows, and completion criteria into reusable engineering assets. | Brings projects, runs, events, actions, audit trails, and token costs into one lightweight ProjectOps × AgentOps console. |
-| [Repository](https://github.com/CrewBeeLab/CrewBee) · [Website](https://www.crewbee.art) · [Install](https://github.com/CrewBeeLab/CrewBee/blob/main/docs/guide/installation.md) | [Repository](https://github.com/PilotDeckAgentLabs/PilotDeck) |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/featured-systems-dark.svg" />
+    <img src="./assets/featured-systems-light.svg" alt="CrewBee and PilotDeck presented as complementary systems: maintainable Agent Teams and observable Agent work." width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CrewBeeLab/CrewBee"><strong>CrewBee repository</strong></a> ·
+  <a href="https://www.crewbee.art">Website</a> ·
+  <a href="https://github.com/CrewBeeLab/CrewBee/blob/main/docs/guide/installation.md">Install</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/PilotDeckAgentLabs/PilotDeck"><strong>PilotDeck repository</strong></a>
+</p>
 
 Together, they express two sides of the same direction: CrewBee makes Agent Teams maintainable and reusable; PilotDeck makes their work visible, reviewable, and easier to govern.
 

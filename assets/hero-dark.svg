@@ -1,82 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
   <title id="title">Yong — Engineering Across Boundaries</title>
-  <desc id="desc">A calm technical landscape of connected system layers, expressing the transformation of complex workflows into reliable software.</desc>
+  <desc id="desc">A quiet ink-line engineering topology connects languages, runtimes, platforms, and products.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07111f"/>
-      <stop offset="1" stop-color="#0d1c2d"/>
-    </linearGradient>
-    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#41c6dc"/>
-      <stop offset="0.58" stop-color="#9b8cff"/>
-      <stop offset="1" stop-color="#efb45e"/>
-    </linearGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#87a1b7" stroke-opacity=".08"/>
+    <pattern id="paper" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M0 35.5H36M35.5 0V36" fill="none" stroke="#2A323A" stroke-opacity=".11" stroke-width=".6"/>
+      <circle cx="6" cy="8" r=".65" fill="#8E99A3" fill-opacity=".08"/>
     </pattern>
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
   </defs>
-
-  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
-  <path d="M0 304C208 250 367 335 574 286S950 224 1200 274V360H0Z" fill="#10263a" fill-opacity=".65"/>
-
-  <g transform="translate(64 52)">
-    <g font-family="Segoe UI, Inter, Arial, sans-serif">
-      <text x="0" y="18" fill="#54cadc" font-size="13" font-weight="700" letter-spacing="3">YONG / ENGINEERING SYSTEMS</text>
-      <text x="0" y="86" fill="#f2f7fb" font-size="43" font-weight="680" letter-spacing="-.8">Turning complex workflows</text>
-      <text x="0" y="137" fill="#f2f7fb" font-size="43" font-weight="680" letter-spacing="-.8">into reliable software.</text>
-      <text x="1" y="181" fill="#9fb2c3" font-size="17">Cross-Platform Software Engineer &amp; Product Builder</text>
-      <g transform="translate(0 214)" font-family="Consolas, SFMono-Regular, monospace" font-size="12" font-weight="600" letter-spacing=".8">
-        <rect width="406" height="36" rx="18" fill="#0b1726" stroke="#294156"/>
-        <circle cx="20" cy="18" r="4" fill="#41c6dc"/>
-        <text x="34" y="22" fill="#afc0ce">LANGUAGES · PLATFORMS · ENGINES · PRODUCTS</text>
-      </g>
-    </g>
+  <rect width="1200" height="380" rx="18" fill="#0B0E12"/>
+  <rect width="1200" height="380" rx="18" fill="url(#paper)"/>
+  <rect x=".5" y=".5" width="1199" height="379" rx="17.5" fill="none" stroke="#2A323A"/>
+  <path d="M0 319C176 291 286 336 438 310S730 264 904 292s198 5 296-20v108H0Z" fill="#11161C" fill-opacity=".72"/>
+  <g font-family="IBM Plex Sans, Inter, Segoe UI, Arial, sans-serif">
+    <text x="64" y="66" fill="#7FA8B8" font-size="12" font-weight="650" letter-spacing="3.2">YONG / ENGINEERING ACROSS BOUNDARIES</text>
+    <text x="64" y="132" fill="#E8ECEF" font-size="43" font-weight="650" letter-spacing="-.8">Turning complex workflows</text>
+    <text x="64" y="183" fill="#E8ECEF" font-size="43" font-weight="650" letter-spacing="-.8">into reliable software.</text>
+    <text x="65" y="226" fill="#8E99A3" font-size="16">Cross-Platform Software Engineer &amp; Product Builder</text>
+    <line x1="65" y1="254" x2="286" y2="254" stroke="#2A323A"/>
+    <circle cx="65" cy="254" r="3.5" fill="#B86A4A"/>
+    <text x="65" y="282" fill="#8E99A3" font-family="IBM Plex Mono, Consolas, monospace" font-size="10" letter-spacing="1.2">QUIET SYSTEMS · CLEAR STRUCTURE · RELIABLE OUTCOMES</text>
   </g>
 
-  <g transform="translate(720 43)">
-    <path d="M8 246C94 195 123 205 188 141S315 81 421 27" fill="none" stroke="url(#signal)" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
-    <path d="M8 246C98 249 150 227 213 188S347 145 434 139" fill="none" stroke="#41c6dc" stroke-opacity=".28" stroke-width="1.5" stroke-dasharray="5 8"/>
-    <path d="M82 86C149 110 198 96 260 52S371 27 441 56" fill="none" stroke="#9b8cff" stroke-opacity=".25" stroke-width="1.5" stroke-dasharray="4 9"/>
-
-    <g font-family="Consolas, SFMono-Regular, monospace" font-size="11" font-weight="600">
-      <g transform="translate(0 225)">
-        <rect width="150" height="46" rx="10" fill="#0b1726" stroke="#28485a"/>
-        <circle cx="18" cy="17" r="4" fill="#41c6dc"/><text x="31" y="21" fill="#dce8ef">LANGUAGE</text>
-        <text x="18" y="37" fill="#7891a5" font-size="9">C# · C++ · JAVA · PY</text>
-      </g>
-      <g transform="translate(103 151)">
-        <rect width="152" height="46" rx="10" fill="#0b1726" stroke="#4b4274"/>
-        <circle cx="18" cy="17" r="4" fill="#9b8cff"/><text x="31" y="21" fill="#dce8ef">RUNTIME</text>
-        <text x="18" y="37" fill="#7891a5" font-size="9">NATIVE · MANAGED · WEB</text>
-      </g>
-      <g transform="translate(205 84)">
-        <rect width="152" height="46" rx="10" fill="#0b1726" stroke="#28485a"/>
-        <circle cx="18" cy="17" r="4" fill="#41c6dc"/><text x="31" y="21" fill="#dce8ef">PLATFORM</text>
-        <text x="18" y="37" fill="#7891a5" font-size="9">DESKTOP · MOBILE · WEBGL</text>
-      </g>
-      <g transform="translate(313 15)">
-        <rect width="152" height="46" rx="10" fill="#0b1726" stroke="#695335"/>
-        <circle cx="18" cy="17" r="4" fill="#efb45e"/><text x="31" y="21" fill="#dce8ef">PRODUCT</text>
-        <text x="18" y="37" fill="#7891a5" font-size="9">WORKFLOW · DELIVERY</text>
-      </g>
-    </g>
-
-    <g fill="#07111f" stroke-width="2">
-      <circle cx="8" cy="246" r="6" stroke="#41c6dc"/>
-      <circle cx="188" cy="141" r="6" stroke="#9b8cff"/>
-      <circle cx="421" cy="27" r="6" stroke="#efb45e"/>
-    </g>
-    <g transform="translate(274 218)">
-      <rect width="186" height="39" rx="19.5" fill="#151934" stroke="#4b4274"/>
-      <circle cx="20" cy="19.5" r="4" fill="#9b8cff"/>
-      <text x="34" y="24" fill="#c8beff" font-family="Consolas, monospace" font-size="10" font-weight="700" letter-spacing=".5">AI / AUTOMATION LAYER</text>
-    </g>
+  <g transform="translate(695 38)" fill="none" stroke-linecap="round">
+    <path d="M2 270C96 241 113 193 188 184s113-52 164-92 86-50 143-64" stroke="#7FA8B8" stroke-width="1.5"/>
+    <path d="M0 292C72 268 132 268 201 224s133-41 194-66 86-20 110-19" stroke="#6F8F9F" stroke-opacity=".58" stroke-width="1"/>
+    <path d="M41 120C106 145 151 136 221 91s124-40 181-14 86 20 111 7" stroke="#2A323A" stroke-width="1"/>
+    <path d="M88 62C137 77 192 64 253 35s111-22 176-2" stroke="#2A323A" stroke-opacity=".72" stroke-width=".8"/>
+    <path d="M57 236C105 224 143 227 188 184" stroke="#2A323A" stroke-dasharray="3 8"/>
+    <path d="M352 92C392 80 441 69 491 32" stroke="#C6A96A" stroke-opacity=".62" stroke-dasharray="3 8"/>
   </g>
 
-  <rect x=".5" y=".5" width="1199" height="359" rx="23.5" fill="none" stroke="#20384c"/>
+  <g font-family="IBM Plex Mono, Consolas, monospace" font-size="9" letter-spacing="1.1">
+    <g transform="translate(716 296)"><circle r="5" fill="#0B0E12" stroke="#7FA8B8" stroke-width="1.6"/><text x="14" y="4" fill="#8E99A3">LANGUAGE</text></g>
+    <g transform="translate(883 222)"><circle r="5" fill="#0B0E12" stroke="#7FA8B8" stroke-width="1.6"/><text x="14" y="4" fill="#8E99A3">RUNTIME</text></g>
+    <g transform="translate(1047 130)"><circle r="5" fill="#0B0E12" stroke="#6F8F9F" stroke-width="1.6"/><text x="14" y="4" fill="#8E99A3">PLATFORM</text></g>
+    <g transform="translate(1173 66)"><circle r="5" fill="#B86A4A"/><text x="-14" y="-12" text-anchor="end" fill="#C6A96A">PRODUCT</text></g>
+  </g>
+
+  <line x1="64" y1="332" x2="1136" y2="332" stroke="#2A323A"/>
+  <text x="64" y="354" fill="#8E99A3" font-family="IBM Plex Mono, Consolas, monospace" font-size="9" letter-spacing="1.2">LANGUAGES / PLATFORMS / ENGINES / PRODUCTS</text>
+  <text x="1136" y="354" text-anchor="end" fill="#8E99A3" font-family="IBM Plex Mono, Consolas, monospace" font-size="9" letter-spacing="1.2">AI: MULTIPLIER, NOT FOUNDATION</text>
 </svg>

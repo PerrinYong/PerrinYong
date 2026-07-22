@@ -1,54 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
   <title id="title">System pulse</title>
-  <desc id="desc">Current engineering focus and latest public project signal.</desc>
+  <desc id="desc">A restrained status panel showing current engineering focus and the latest public release.</desc>
   <defs>
-    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M24 0H0V24" fill="none" stroke="#7890a5" stroke-opacity=".07" />
+    <pattern id="paper" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M0 35.5H36M35.5 0V36" fill="none" stroke="#2A323A" stroke-opacity=".11" stroke-width=".6"/>
+      <circle cx="6" cy="8" r=".65" fill="#8E99A3" fill-opacity=".08"/>
     </pattern>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#41c6dc" />
-      <stop offset=".55" stop-color="#9b8cff" />
-      <stop offset="1" stop-color="#efb45e" />
-    </linearGradient>
   </defs>
-  <rect width="1200" height="300" rx="20" fill="#07111f" />
-  <rect width="1200" height="300" rx="20" fill="url(#grid)" />
-  <g font-family="Segoe UI, Inter, Arial, sans-serif">
-    <text x="48" y="48" fill="#e6eef4" font-size="17" font-weight="750" letter-spacing="2.4">SYSTEM PULSE</text>
-    <circle cx="1025" cy="42" r="5" fill="#41c6dc" />
-    <text x="1039" y="47" fill="#91a7b9" font-family="Consolas, monospace" font-size="10" letter-spacing="1">PUBLIC SIGNALS</text>
-    <rect x="48" y="67" width="1104" height="3" rx="1.5" fill="url(#line)" />
-
-    <g transform="translate(48 91)">
-      <rect width="1104" height="66" rx="13" fill="#0b1827" stroke="#294156" />
-      <text x="22" y="25" fill="#41c6dc" font-family="Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.2">CURRENT FOCUS</text>
-      <text x="22" y="49" fill="#e6eef4" font-size="16" font-weight="600">Reliable agent systems for real software workflows</text>
-    </g>
-
-    <g transform="translate(48 177)">
-      <g>
-        <rect width="258" height="76" rx="13" fill="#0b1827" stroke="#294156" />
-        <text x="18" y="25" fill="#9b8cff" font-family="Consolas, monospace" font-size="9" font-weight="700" letter-spacing="1">FEATURED SYSTEMS</text>
-        <text x="18" y="53" fill="#e6eef4" font-size="14" font-weight="600">CrewBee · PilotDeck</text>
-      </g>
-      <g transform="translate(282)">
-        <rect width="258" height="76" rx="13" fill="#0b1827" stroke="#294156" />
-        <text x="18" y="25" fill="#41c6dc" font-family="Consolas, monospace" font-size="9" font-weight="700" letter-spacing="1">ENGINEERING LENS</text>
-        <text x="18" y="48" fill="#e6eef4" font-size="12" font-weight="600">Cross-platform · Tooling</text>
-        <text x="18" y="64" fill="#91a7b9" font-size="11">Delivery · Observability</text>
-      </g>
-      <g transform="translate(564)">
-        <rect width="258" height="76" rx="13" fill="#0b1827" stroke="#294156" />
-        <text x="18" y="25" fill="#efb45e" font-family="Consolas, monospace" font-size="9" font-weight="700" letter-spacing="1">OPERATING PRINCIPLE</text>
-        <text x="18" y="53" fill="#e6eef4" font-size="14" font-weight="600">Evidence-backed completion</text>
-      </g>
-      <g transform="translate(846)">
-        <rect width="258" height="76" rx="13" fill="#0b1827" stroke="#294156" />
-        <text x="18" y="25" fill="#41c6dc" font-family="Consolas, monospace" font-size="9" font-weight="700" letter-spacing="1">LATEST PUBLIC RELEASE</text>
-        <text x="18" y="53" fill="#e6eef4" font-size="14" font-weight="600">CrewBee · v0.1.24</text>
-      </g>
-    </g>
-  </g>
-  <text x="48" y="280" fill="#91a7b9" font-family="Consolas, monospace" font-size="9" letter-spacing="1">REVIEWED CONFIGURATION + GITHUB RELEASE API</text>
-  <rect x=".5" y=".5" width="1199" height="299" rx="19.5" fill="none" stroke="#294156" />
+  <rect width="1200" height="310" rx="18" fill="#0B0E12"/>
+  <rect width="1200" height="310" rx="18" fill="url(#paper)"/>
+  <rect x=".5" y=".5" width="1199" height="309" rx="17.5" fill="none" stroke="#2A323A"/>
+  <text x="48" y="48" fill="#E8ECEF" font-family="IBM Plex Sans, Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="650" letter-spacing="2">SYSTEM PULSE</text>
+  <circle cx="1024" cy="43" r="3.5" fill="#B86A4A"/>
+  <text x="1038" y="47" fill="#8E99A3" font-family="IBM Plex Mono, Consolas, monospace" font-size="9" letter-spacing="1.2">QUIETLY RUNNING</text>
+  <line x1="48" y1="110" x2="1152" y2="110" stroke="#2A323A"/>
+    <circle cx="53" cy="80" r="3" fill="#7FA8B8"/>
+    <text x="70" y="84" fill="#8E99A3" font-family="IBM Plex Mono, Consolas, monospace" font-size="9" letter-spacing="1.4">CURRENT FOCUS</text>
+    <text x="286" y="85" fill="#E8ECEF" font-family="IBM Plex Sans, Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="550">Reliable agent systems for real software workflows</text><line x1="48" y1="158" x2="1152" y2="158" stroke="#2A323A"/>
+    <circle cx="53" cy="128" r="3" fill="#6F8F9F"/>
+    <text x="70" y="132" fill="#8E99A3" font-family="IBM Plex Mono, Consolas, monospace" font-size="9" letter-spacing="1.4">FEATURED SYSTEMS</text>
+    <text x="286" y="133" fill="#E8ECEF" font-family="IBM Plex Sans, Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="550">CrewBee · PilotDeck</text><line x1="48" y1="206" x2="1152" y2="206" stroke="#2A323A"/>
+    <circle cx="53" cy="176" r="3" fill="#B86A4A"/>
+    <text x="70" y="180" fill="#8E99A3" font-family="IBM Plex Mono, Consolas, monospace" font-size="9" letter-spacing="1.4">LATEST PUBLIC RELEASE</text>
+    <text x="286" y="181" fill="#E8ECEF" font-family="IBM Plex Sans, Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="550">CrewBee · v0.1.24</text><line x1="48" y1="254" x2="1152" y2="254" stroke="#2A323A"/>
+    <circle cx="53" cy="224" r="3" fill="#C6A96A"/>
+    <text x="70" y="228" fill="#8E99A3" font-family="IBM Plex Mono, Consolas, monospace" font-size="9" letter-spacing="1.4">OPERATING PRINCIPLE</text>
+    <text x="286" y="229" fill="#E8ECEF" font-family="IBM Plex Sans, Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="550">Evidence-backed completion</text>
+  <text x="48" y="291" fill="#8E99A3" font-family="IBM Plex Mono, Consolas, monospace" font-size="8.5" letter-spacing="1.1">ENGINEERING LENS / Cross-platform · Tooling · Delivery · Observability</text>
 </svg>
