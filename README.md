@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/hero-engineering-shanshui-light-v2.png" alt="A restrained engineering topology merging with pale East Asian mountain forms, paper texture, blue-gray structure lines, and subtle warm accents." width="78%" />
-</p>
-
 <h1 align="center">Hi, I'm Yong</h1>
 
 <p align="center">
@@ -26,7 +22,7 @@ For 6+ years, I have built CI/CD and automated testing systems, engine tooling, 
 ## Engineering across boundaries
 
 <p align="center">
-  <img src="./assets/capability-topology-light.svg" alt="Capability map connecting cross-language, cross-platform, engine and runtime, delivery systems, and agent workflows to reliable software." width="100%" />
+  <img src="./assets/capability-topology-dark.svg" alt="Capability map connecting cross-language, cross-platform, engine and runtime, delivery systems, and agent workflows to reliable software." width="100%" />
 </p>
 
 <p align="center">
@@ -36,7 +32,7 @@ For 6+ years, I have built CI/CD and automated testing systems, engine tooling, 
 ## Selected systems
 
 <p align="center">
-  <img src="./assets/featured-systems-oriental-light.svg" alt="CrewBee and PilotDeck presented as complementary systems: maintainable Agent Teams and observable Agent work." width="100%" />
+  <img src="./assets/featured-systems-oriental-dark.svg" alt="CrewBee and PilotDeck presented as complementary systems: maintainable Agent Teams and observable Agent work." width="100%" />
 </p>
 
 <p align="center">
@@ -52,7 +48,7 @@ Together, they express two sides of the same direction: CrewBee makes Agent Team
 ## System pulse
 
 <p align="center">
-  <img src="./assets/generated/system-pulse-quiet-light.svg" alt="Current focus, featured systems, engineering lens, operating principle, and latest public CrewBee release." width="100%" />
+  <img src="./assets/generated/system-pulse-quiet-dark.svg" alt="Current focus, featured systems, engineering lens, operating principle, and latest public CrewBee release." width="100%" />
 </p>
 
 <sub>The pulse is generated from a reviewed local configuration plus public GitHub release data. Core profile assets are stored in this repository.</sub>
