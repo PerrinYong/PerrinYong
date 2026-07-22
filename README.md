@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/CrewBeeLab/CrewBee">CrewBee</a> ·
   <a href="https://www.crewbee.art">Website</a> ·
-  <a href="https://github.com/CrewBeeLab/crewbee-project-context">Project Context</a>
+  <a href="https://github.com/PilotDeckAgentLabs/PilotDeck">PilotDeck</a>
 </p>
 
 ---
@@ -45,11 +45,11 @@ CrewBee is available for OpenCode today. Its built-in Coding Team supports owner
 
 **Explore:** [Repository](https://github.com/CrewBeeLab/CrewBee) · [Website](https://www.crewbee.art) · [Installation](https://github.com/CrewBeeLab/CrewBee/blob/main/docs/guide/installation.md)
 
-### [CrewBee Project Context](https://github.com/CrewBeeLab/crewbee-project-context)
+### [PilotDeck](https://github.com/PilotDeckAgentLabs/PilotDeck)
 
-A lightweight context layer for long-running Agent Coding work. It keeps high-signal architecture, decisions, plans, state, and handoffs in a reviewable workspace so agents can restore project context with less attention cost.
+A lightweight ProjectOps × AgentOps console for individual developers and internal teams. It brings projects, runs, events, actions, audit trails, and token costs into one observable operating layer.
 
-This project reflects a principle I care about: add structure only when it reduces a real coordination cost or prevents a concrete failure.
+Together, CrewBee and PilotDeck express two sides of the same direction: CrewBee makes Agent Teams maintainable and reusable; PilotDeck makes their work visible, reviewable, and easier to govern.
 
 ## What I share
 
