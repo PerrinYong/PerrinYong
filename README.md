@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/hero-engineering-shanshui-v1.png" alt="An abstract engineering topology merging with restrained East Asian mountain forms in deep ink-black and blue-gray." width="100%" />
-</p>
+<h1 align="center">Hi, I'm Yong</h1>
 
 <p align="center">
   <strong>Cross-Platform Software Engineer &amp; Product Builder</strong><br />
@@ -21,13 +19,14 @@ For 6+ years, I have built CI/CD and automated testing systems, engine tooling, 
 
 > **AI is an engineering multiplier—not a substitute for software engineering fundamentals.**
 
+<p align="center">
+  <img src="./assets/hero-engineering-shanshui-light-v2.png" alt="A restrained engineering topology merging with pale East Asian mountain forms, paper texture, blue-gray structure lines, and subtle warm accents." width="78%" />
+</p>
+
 ## Engineering across boundaries
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/capability-topology-dark.svg" />
-    <img src="./assets/capability-topology-light.svg" alt="Capability map connecting cross-language, cross-platform, engine and runtime, delivery systems, and agent workflows to reliable software." width="100%" />
-  </picture>
+  <img src="./assets/capability-topology-light.svg" alt="Capability map connecting cross-language, cross-platform, engine and runtime, delivery systems, and agent workflows to reliable software." width="100%" />
 </p>
 
 <p align="center">
@@ -37,10 +36,7 @@ For 6+ years, I have built CI/CD and automated testing systems, engine tooling, 
 ## Selected systems
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/featured-systems-oriental-dark.svg" />
-    <img src="./assets/featured-systems-oriental-light.svg" alt="CrewBee and PilotDeck presented as complementary systems: maintainable Agent Teams and observable Agent work." width="100%" />
-  </picture>
+  <img src="./assets/featured-systems-oriental-light.svg" alt="CrewBee and PilotDeck presented as complementary systems: maintainable Agent Teams and observable Agent work." width="100%" />
 </p>
 
 <p align="center">
@@ -56,10 +52,7 @@ Together, they express two sides of the same direction: CrewBee makes Agent Team
 ## System pulse
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/system-pulse-quiet-dark.svg" />
-    <img src="./assets/generated/system-pulse-quiet-light.svg" alt="Current focus, featured systems, engineering lens, operating principle, and latest public CrewBee release." width="100%" />
-  </picture>
+  <img src="./assets/generated/system-pulse-quiet-light.svg" alt="Current focus, featured systems, engineering lens, operating principle, and latest public CrewBee release." width="100%" />
 </p>
 
 <sub>The pulse is generated from a reviewed local configuration plus public GitHub release data. Core profile assets are stored in this repository.</sub>
