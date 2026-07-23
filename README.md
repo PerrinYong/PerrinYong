@@ -5,12 +5,6 @@
   <em>Turning complex workflows into reliable software.</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/CrewBeeLab/CrewBee">CrewBee</a> ·
-  <a href="https://github.com/PilotDeckAgentLabs/PilotDeck">PilotDeck</a> ·
-  <a href="https://www.crewbee.art">Website</a>
-</p>
-
 ---
 
 I build where software gets difficult: at the boundaries between languages, runtimes, platforms, delivery environments, and human–agent collaboration.
@@ -29,29 +23,24 @@ For 6+ years, I have built CI/CD and automated testing systems, engine tooling, 
   <code>complex workflow → explicit model → reliable system → reusable asset</code>
 </p>
 
-## Selected systems
+## Engineering toolbox
 
-<p align="center">
-  <img src="./assets/featured-systems-oriental-dark.svg" alt="CrewBee and PilotDeck presented as complementary systems: maintainable Agent Teams and observable Agent work." width="100%" />
-</p>
+**Languages:** C# · C++ · Java · Python · JavaScript / TypeScript<br />
+**Platforms:** Windows · Android · iOS · WebGL<br />
+**Engines:** Unity · Unreal · Cocos<br />
+**Systems:** CI/CD · Automated testing · SDKs · Native plugins · Diagnostics · Observability · Agent review workflows
 
-<p align="center">
-  <a href="https://github.com/CrewBeeLab/CrewBee"><strong>CrewBee repository</strong></a> ·
-  <a href="https://www.crewbee.art">Website</a> ·
-  <a href="https://github.com/CrewBeeLab/CrewBee/blob/main/docs/guide/installation.md">Install</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/PilotDeckAgentLabs/PilotDeck"><strong>PilotDeck repository</strong></a>
-</p>
+## Projects
 
-Together, they express two sides of the same direction: CrewBee makes Agent Teams maintainable and reusable; PilotDeck makes their work visible, reviewable, and easier to govern.
+### [CrewBee](https://github.com/CrewBeeLab/CrewBee)
 
-## System pulse
+CrewBee turns prompts, agents, rules, review flows, and completion criteria into maintainable Agent Team assets. Its built-in Coding Team supports owner-led work, focused implementation, independent review, and evidence-backed completion.
 
-<p align="center">
-  <img src="./assets/generated/system-pulse-quiet-dark.svg" alt="Current focus, featured systems, engineering lens, operating principle, and latest public CrewBee release." width="100%" />
-</p>
+[Website](https://www.crewbee.art) · [Installation](https://github.com/CrewBeeLab/CrewBee/blob/main/docs/guide/installation.md)
 
-<sub>The pulse is generated from a reviewed local configuration plus public GitHub release data. Core profile assets are stored in this repository.</sub>
+### [PilotDeck](https://github.com/PilotDeckAgentLabs/PilotDeck)
+
+PilotDeck is a lightweight ProjectOps × AgentOps console for individual developers and internal teams. It brings projects, runs, events, actions, audit trails, and token costs into one observable operating layer.
 
 ## What I share
 
@@ -65,18 +54,8 @@ Together, they express two sides of the same direction: CrewBee makes Agent Team
 
 I care about software that can be understood, tested, reviewed, operated, and improved—not just demonstrated once.
 
-<details>
-  <summary><strong>Engineering toolbox</strong></summary>
-  <br />
-
-  **Languages:** C# · C++ · Java · Python · JavaScript / TypeScript<br />
-  **Platforms:** Windows · Android · iOS · WebGL<br />
-  **Engines:** Unity · Unreal · Cocos<br />
-  **Systems:** CI/CD · Automated testing · SDKs · Native plugins · Diagnostics · Observability · Agent review workflows
-</details>
-
 ---
 
 <p align="center">
-  If this is your kind of engineering, follow along—or start with <a href="https://github.com/CrewBeeLab/CrewBee">CrewBee</a> and <a href="https://github.com/PilotDeckAgentLabs/PilotDeck">PilotDeck</a>.
+  If this is your kind of engineering, follow along.
 </p>

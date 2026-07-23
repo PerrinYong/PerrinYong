@@ -1,9 +1,0 @@
-{
-  "current_focus": "Reliable agent systems for real software workflows",
-  "featured_systems": "CrewBee · PilotDeck",
-  "engineering_lens_primary": "Cross-platform · Tooling",
-  "engineering_lens_secondary": "Delivery · Observability",
-  "operating_principle": "Evidence-backed completion",
-  "release_repo": "CrewBeeLab/CrewBee",
-  "release_fallback": "CrewBee · v0.1.24"
-}
