@@ -9,7 +9,7 @@
 
 I build where software gets difficult: at the boundaries between languages, runtimes, platforms, delivery environments, and human–agent collaboration.
 
-For 6+ years, I have built CI/CD and automated testing systems, engine tooling, SDKs, plugins, and diagnostics across Unity, Unreal, Cocos, Android, iOS, Windows, and WebGL. Today, I apply the same engineering discipline to AI-assisted development: explicit responsibilities, observable execution, independent review, and verifiable completion.
+For 6+ years, I have built CI/CD and automated testing systems, engine tooling, SDKs, plugins, and diagnostics across Unity, Unreal, Cocos, Android, iOS, Windows, and WebGL. Today, I apply the same engineering discipline to AI agent engineering and developer tools: explicit responsibilities, observable execution, independent review, and verifiable completion.
 
 > **AI is an engineering multiplier—not a substitute for software engineering fundamentals.**
 
