@@ -54,6 +54,12 @@ PilotDeck is a lightweight ProjectOps × AgentOps console for individual develop
 
 I care about software that can be understood, tested, reviewed, operated, and improved—not just demonstrated once.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake.svg" alt="Animated snake moving through Yong's GitHub contribution grid." width="100%" />
+</picture>
+
 ---
 
 <p align="center">
