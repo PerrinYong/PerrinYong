@@ -42,6 +42,10 @@ CrewBee turns prompts, agents, rules, review flows, and completion criteria into
 
 PilotDeck is a lightweight ProjectOps × AgentOps console for individual developers and internal teams. It brings projects, runs, events, actions, audit trails, and token costs into one observable operating layer.
 
+### [Waggle](https://github.com/CrewBeeLab/Waggle)
+
+Waggle is a software-first, Project-first governed Agent Harness / Agent Control Plane that turns product software into agent-operable skills. It runs AgentPackages inside Projects with explicit RunPermissionBoundaries, Tool Proxy enforcement, product-owned confirmations, and audit evidence—so teams can ship Agent capabilities without giving up business control.
+
 ## What I share
 
 - **Engineering Across Boundaries** — cross-platform integration, SDKs, engine tooling, diagnostics, and lessons from real delivery constraints
