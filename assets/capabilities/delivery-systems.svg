@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" role="img" aria-label="Delivery systems">
+  <rect x="3" y="3" width="58" height="58" rx="15" stroke="#27313B" stroke-width="2"/>
+  <path d="M16 23H32M32 23V41M32 41H48" stroke="#6F91A4" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="16" cy="23" r="5" stroke="#8DA9B8" stroke-width="3"/>
+  <circle cx="32" cy="23" r="5" fill="#B89A65"/>
+  <circle cx="48" cy="41" r="5" stroke="#8DA9B8" stroke-width="3"/>
+  <path d="M44.5 41L47 43.5L52 37.5" stroke="#6F91A4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

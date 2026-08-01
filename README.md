@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg" />
+  <img src="./assets/profile-header-dark.svg" alt="Yong — Engineering across boundaries" width="100%" />
+</picture>
+
 <h1 align="center">Hi, I'm Yong</h1>
 
 <p align="center">
@@ -5,7 +11,52 @@
   <em>Turning complex workflows into reliable software.</em>
 </p>
 
----
+<p align="center">
+  <a href="#engineering-toolbox">Toolbox</a>
+  &nbsp;·&nbsp;
+  <a href="#projects">Projects</a>
+  &nbsp;·&nbsp;
+  <a href="#what-i-share">What I share</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/yong-perrin-75671b405/">LinkedIn ↗</a>
+</p>
+
+## Engineering across boundaries
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="./assets/capabilities/cross-language.svg" alt="Cross-language" width="52" /><br />
+      <strong>Cross-language</strong><br />
+      <sub>C# · C++ · Java · Python</sub>
+    </td>
+    <td align="center" width="34%">
+      <img src="./assets/capabilities/cross-platform.svg" alt="Cross-platform" width="52" /><br />
+      <strong>Cross-platform</strong><br />
+      <sub>Windows · Android · iOS · WebGL</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="./assets/capabilities/engine-runtime.svg" alt="Engine and runtime" width="52" /><br />
+      <strong>Engine &amp; runtime</strong><br />
+      <sub>Unity · Unreal · Cocos</sub>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/capabilities/delivery-systems.svg" alt="Delivery systems" width="52" /><br />
+      <strong>Delivery systems</strong><br />
+      <sub>CI/CD · Automated testing · Diagnostics</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/capabilities/agent-workflows.svg" alt="Agent workflows" width="52" /><br />
+      <strong>Agent workflows</strong><br />
+      <sub>Responsibilities · Review · Verification</sub>
+    </td>
+  </tr>
+</table>
 
 I build where software gets difficult: at the boundaries between languages, runtimes, platforms, delivery environments, and human–agent collaboration.
 
@@ -13,22 +64,36 @@ For 6+ years, I have built CI/CD and automated testing systems, engine tooling, 
 
 > **AI is an engineering multiplier—not a substitute for software engineering fundamentals.**
 
-## Engineering across boundaries
-
-<p align="center">
-  <img src="./assets/capability-topology-dark.svg" alt="Capability map connecting cross-language, cross-platform, engine and runtime, delivery systems, and agent workflows to reliable software." width="100%" />
-</p>
-
 <p align="center">
   <code>complex workflow → explicit model → reliable system → reusable asset</code>
 </p>
 
+<details>
+  <summary><strong>How these capabilities connect</strong></summary>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/capability-topology-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/capability-topology-light.svg" />
+    <img src="./assets/capability-topology-dark.svg" alt="Capability map connecting cross-language, cross-platform, engine and runtime, delivery systems, and agent workflows to reliable software." width="100%" />
+  </picture>
+</details>
+
 ## Engineering toolbox
 
-**Languages:** C# · C++ · Java · Python · JavaScript / TypeScript<br />
-**Platforms:** Windows · Android · iOS · WebGL<br />
-**Engines:** Unity · Unreal · Cocos<br />
-**Systems:** CI/CD · Automated testing · SDKs · Native plugins · Diagnostics · Observability · Agent review workflows
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/toolbox-light.svg" />
+    <img src="./assets/toolbox-dark.svg" alt="Engineering toolbox: C#, C++, Java, Python, TypeScript, Windows, Android, iOS, WebGL, Unity, Unreal, Cocos, CI/CD, and SDKs" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub><strong>Languages:</strong> C# · C++ · Java · Python · JavaScript / TypeScript</sub><br />
+  <sub><strong>Platforms:</strong> Windows · Android · iOS · WebGL</sub><br />
+  <sub><strong>Engines:</strong> Unity · Unreal · Cocos</sub><br />
+  <sub><strong>Systems:</strong> CI/CD · Automated testing · SDKs · Native plugins · Diagnostics · Observability · Agent review workflows</sub>
+</p>
 
 ## Projects
 

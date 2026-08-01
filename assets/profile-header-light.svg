@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Yong — Engineering across boundaries</title>
+  <desc id="desc">A quiet, precise composition of layered system boundaries.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6F8FA"/>
+      <stop offset="1" stop-color="#EEF2F5"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6F91A4" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#4F7183" stop-opacity="0.78"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#B8C2CC" stroke-width="1" stroke-opacity="0.32"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="248" rx="16" fill="url(#surface)" stroke="#D0D7DE" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="246" rx="15" fill="url(#grid)" opacity="0.62"/>
+
+  <g transform="translate(76 67)">
+    <text x="0" y="36" fill="#1F2328" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="7">YONG</text>
+    <text x="2" y="74" fill="#59636E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="2.4">ENGINEERING ACROSS BOUNDARIES</text>
+    <line x1="2" y1="98" x2="376" y2="98" stroke="#4F7183" stroke-width="2"/>
+    <circle cx="383" cy="98" r="4" fill="#8A6F42"/>
+    <text x="2" y="124" fill="#66717D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1.4">SYSTEMS · TOOLS · PRODUCTS · WORKFLOWS</text>
+  </g>
+
+  <g transform="translate(684 34)">
+    <path d="M0 154L150 70L420 70L270 154Z" fill="#E7EDF1" stroke="#CBD4DB" stroke-width="2"/>
+    <path d="M42 129L170 56L448 56L320 129Z" fill="#ECF1F4" stroke="url(#edge)" stroke-width="2"/>
+    <path d="M91 103L198 42L470 42L363 103Z" fill="#F0F4F6" stroke="#6F91A4" stroke-width="2" stroke-opacity="0.75"/>
+    <path d="M146 76L228 29L488 29L406 76Z" fill="#F6F8FA" stroke="#4F7183" stroke-width="2"/>
+    <path d="M151 78L405 78" stroke="#8A6F42" stroke-width="2" stroke-opacity="0.8"/>
+    <circle cx="151" cy="78" r="5" fill="#8A6F42"/>
+    <circle cx="405" cy="78" r="5" fill="#4F7183"/>
+    <path d="M270 154V184M320 129V172M363 103V160M406 76V147" stroke="#6F91A4" stroke-width="1" stroke-opacity="0.5"/>
+    <path d="M270 184H494" stroke="#CBD4DB" stroke-width="2"/>
+    <circle cx="494" cy="184" r="4" fill="#4F7183"/>
+  </g>
+</svg>

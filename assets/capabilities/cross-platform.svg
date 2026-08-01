@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" role="img" aria-label="Cross-platform">
+  <rect x="3" y="3" width="58" height="58" rx="15" stroke="#27313B" stroke-width="2"/>
+  <rect x="13" y="17" width="31" height="22" rx="3" stroke="#6F91A4" stroke-width="3"/>
+  <path d="M20 47H37M28.5 39V47" stroke="#6F91A4" stroke-width="3" stroke-linecap="round"/>
+  <rect x="40" y="25" width="11" height="22" rx="3" fill="#151B23" stroke="#8DA9B8" stroke-width="3"/>
+  <circle cx="45.5" cy="42" r="1.5" fill="#B89A65"/>
+</svg>
