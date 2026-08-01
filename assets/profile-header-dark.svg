@@ -1,55 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
   <title id="title">Yong — Engineering across boundaries</title>
-  <desc id="desc">A luminous, precise composition of layered system boundaries.</desc>
+  <desc id="desc">A quiet, precise composition of layered system boundaries.</desc>
   <defs>
     <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0A1420"/>
-      <stop offset="0.56" stop-color="#102536"/>
-      <stop offset="1" stop-color="#123A52"/>
+      <stop offset="0" stop-color="#0B0F14"/>
+      <stop offset="1" stop-color="#111820"/>
     </linearGradient>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#67E8F9" stop-opacity="0.96"/>
+      <stop offset="0" stop-color="#6F91A4" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#8DA9B8" stop-opacity="0.72"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38BDF8"/>
-      <stop offset="0.72" stop-color="#67E8F9"/>
-      <stop offset="1" stop-color="#F4C76B"/>
-    </linearGradient>
-    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
-    </radialGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#4B7890" stroke-width="1" stroke-opacity="0.34"/>
+      <path d="M32 0H0V32" fill="none" stroke="#27313B" stroke-width="1" stroke-opacity="0.28"/>
     </pattern>
-    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="3.5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
   </defs>
-  <rect x="1" y="1" width="1198" height="248" rx="16" fill="url(#surface)" stroke="#2C536A" stroke-width="2"/>
-  <rect x="2" y="2" width="1196" height="246" rx="15" fill="url(#grid)" opacity="0.58"/>
-  <ellipse cx="965" cy="92" rx="320" ry="165" fill="url(#halo)"/>
+  <rect x="1" y="1" width="1198" height="248" rx="16" fill="url(#surface)" stroke="#27313B" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="246" rx="15" fill="url(#grid)" opacity="0.5"/>
 
   <g transform="translate(76 67)">
-    <text x="0" y="36" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="7">YONG</text>
-    <text x="2" y="74" fill="#9EDFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="650" letter-spacing="2.4">ENGINEERING ACROSS BOUNDARIES</text>
-    <line x1="2" y1="98" x2="376" y2="98" stroke="url(#accent)" stroke-width="3"/>
-    <circle cx="383" cy="98" r="5" fill="#F4C76B" filter="url(#glow)"/>
-    <text x="2" y="124" fill="#89B7CE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1.4">SYSTEMS · TOOLS · PRODUCTS · WORKFLOWS</text>
+    <text x="0" y="36" fill="#F0F6FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="7">YONG</text>
+    <text x="2" y="74" fill="#B1BAC4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="2.4">ENGINEERING ACROSS BOUNDARIES</text>
+    <line x1="2" y1="98" x2="376" y2="98" stroke="#6F91A4" stroke-width="2"/>
+    <circle cx="383" cy="98" r="4" fill="#B89A65"/>
+    <text x="2" y="124" fill="#7D8996" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1.4">SYSTEMS · TOOLS · PRODUCTS · WORKFLOWS</text>
   </g>
 
   <g transform="translate(684 34)">
-    <path d="M0 154L150 70L420 70L270 154Z" fill="#102B3D" stroke="#2C536A" stroke-width="2"/>
-    <path d="M42 129L170 56L448 56L320 129Z" fill="#12354A" stroke="url(#edge)" stroke-width="2"/>
-    <path d="M91 103L198 42L470 42L363 103Z" fill="#16445C" stroke="#45C8FF" stroke-width="2" stroke-opacity="0.84"/>
-    <path d="M146 76L228 29L488 29L406 76Z" fill="#0F2D40" stroke="#8BE7FF" stroke-width="2"/>
-    <path d="M151 78L405 78" stroke="url(#accent)" stroke-width="3"/>
-    <circle cx="151" cy="78" r="5" fill="#F4C76B" filter="url(#glow)"/>
-    <circle cx="405" cy="78" r="5" fill="#67E8F9" filter="url(#glow)"/>
-    <path d="M270 154V184M320 129V172M363 103V160M406 76V147" stroke="#67CFF2" stroke-width="1.5" stroke-opacity="0.58"/>
-    <path d="M270 184H494" stroke="#3D7895" stroke-width="2"/>
-    <circle cx="494" cy="184" r="5" fill="#67E8F9" filter="url(#glow)"/>
+    <path d="M0 154L150 70L420 70L270 154Z" fill="#151B23" stroke="#27313B" stroke-width="2"/>
+    <path d="M42 129L170 56L448 56L320 129Z" fill="#131A21" stroke="url(#edge)" stroke-width="2"/>
+    <path d="M91 103L198 42L470 42L363 103Z" fill="#111820" stroke="#6F91A4" stroke-width="2" stroke-opacity="0.7"/>
+    <path d="M146 76L228 29L488 29L406 76Z" fill="#0F151C" stroke="#8DA9B8" stroke-width="2"/>
+    <path d="M151 78L405 78" stroke="#B89A65" stroke-width="2" stroke-opacity="0.75"/>
+    <circle cx="151" cy="78" r="5" fill="#B89A65"/>
+    <circle cx="405" cy="78" r="5" fill="#8DA9B8"/>
+    <path d="M270 154V184M320 129V172M363 103V160M406 76V147" stroke="#6F91A4" stroke-width="1" stroke-opacity="0.45"/>
+    <path d="M270 184H494" stroke="#27313B" stroke-width="2"/>
+    <circle cx="494" cy="184" r="4" fill="#8DA9B8"/>
   </g>
 </svg>
