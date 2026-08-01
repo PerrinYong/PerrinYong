@@ -23,7 +23,7 @@
 
 ## Engineering across boundaries
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
       <img src="./assets/capabilities/cross-language.svg" alt="Cross-language" width="52" /><br />
@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
       <img src="./assets/capabilities/delivery-systems.svg" alt="Delivery systems" width="52" /><br />
