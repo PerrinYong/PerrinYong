@@ -34,7 +34,10 @@
 <h3 align="center">🛠️ Languages &amp; tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,ts,unity,unreal,windows,androidstudio,apple,wasm,githubactions&amp;theme=dark&amp;perline=12" alt="Languages and tools: C#, C++, Java, Python, TypeScript, Unity, Unreal, Windows, Android Studio, Apple platforms, WebAssembly, and GitHub Actions" width="700" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://skillicons.dev/icons?i=cs%2Ccpp%2Cjava%2Cpy%2Cts%2Cunity%2Cunreal%2Cwindows%2Candroidstudio%2Capple%2Cwasm%2Cgithubactions&amp;theme=dark&amp;perline=6" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,ts,unity,unreal,windows,androidstudio,apple,wasm,githubactions&amp;theme=dark&amp;perline=12" alt="Languages and tools: C#, C++, Java, Python, TypeScript, Unity, Unreal, Windows, Android Studio, Apple platforms, WebAssembly, and GitHub Actions" width="700" />
+  </picture>
 </p>
 
 <p align="center">
