@@ -7,32 +7,22 @@
 <h1 align="center">Hi, I'm Yong</h1>
 
 <p align="center">
-  <strong>Cross-Platform Software Engineer &amp; Product Builder</strong><br />
-  <em>Turning complex workflows into reliable software.</em><br /><br />
-  <a href="#user-content-engineering-toolbox">Toolbox</a>
-  &nbsp;·&nbsp;
-  <a href="#projects">Projects</a>
-  &nbsp;·&nbsp;
-  <a href="#user-content-what-i-share">What I share</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/yong-perrin-75671b405/">LinkedIn ↗</a>
+  <strong>Cross-Platform Software Engineer · Product Builder</strong><br />
+  <em>Turning complex workflows into reliable software.</em><br />
+  <sub><a href="#user-content-engineering-toolbox">Toolbox</a>
+  &nbsp;·&nbsp; <a href="#projects">Projects</a>
+  &nbsp;·&nbsp; <a href="#user-content-what-i-share">What I share</a>
+  &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/yong-perrin-75671b405/">LinkedIn ↗</a></sub>
 </p>
 
-## Engineering across boundaries
+**Reliable software across languages, runtimes, platforms, delivery systems, and human–agent workflows.**
 
 <p>
-  <sub><strong>Cross-language</strong> · <strong>Cross-platform</strong> · <strong>Engine &amp; runtime</strong><br />
-  <strong>Delivery systems</strong> · <strong>Agent workflows</strong></sub>
-</p>
-
-I build where software gets difficult: at the boundaries between languages, runtimes, platforms, delivery environments, and human–agent collaboration.
-
-For 6+ years, I have built CI/CD and automated testing systems, engine tooling, SDKs, plugins, and diagnostics across Unity, Unreal, Cocos, Android, iOS, Windows, and WebGL. Today, I apply the same engineering discipline to AI agent engineering and developer tools: explicit responsibilities, observable execution, independent review, and verifiable completion.
-
-> **AI is an engineering multiplier—not a substitute for software engineering fundamentals.**
-
-<p align="center">
-  <code>complex workflow → explicit model → reliable system → reusable asset</code>
+  <kbd>6+ years</kbd>&nbsp;
+  <kbd>CI/CD &amp; testing</kbd>&nbsp;
+  <kbd>SDKs &amp; tooling</kbd>&nbsp;
+  <kbd>Diagnostics</kbd>&nbsp;
+  <kbd>Agent engineering</kbd>
 </p>
 
 <picture>
@@ -50,9 +40,8 @@ For 6+ years, I have built CI/CD and automated testing systems, engine tooling, 
   </picture>
 </p>
 
-<p>
-  <sub><strong>Languages:</strong> C# · C++ · Java · Python · JavaScript / TypeScript &nbsp;·&nbsp; <strong>Platforms:</strong> Windows · Android · iOS · WebGL</sub><br />
-  <sub><strong>Engines:</strong> Unity · Unreal · Cocos &nbsp;·&nbsp; <strong>Systems:</strong> CI/CD · Automated testing · SDKs · Native plugins · Diagnostics · Observability · Agent review workflows</sub>
+<p align="center">
+  <sub>C# · C++ · Java · Python · TypeScript · Unity · Unreal · Cocos · Windows · Android · iOS · WebGL</sub>
 </p>
 
 ## Projects
@@ -83,7 +72,7 @@ Waggle is a software-first, Project-first governed Agent Harness / Agent Control
     <td valign="top" width="50%">
       <h3>How I work</h3>
       <blockquote><strong>Reliable over merely clever. Evidence over claims. Simple paths for simple work. Explicit boundaries for complex systems.</strong></blockquote>
-      <p>I care about software that can be understood, tested, reviewed, operated, and improved—not just demonstrated once.</p>
+      <p>I care about software that can be understood, tested, reviewed, operated, and improved—not just demonstrated once. AI is an engineering multiplier—not a substitute for those fundamentals.</p>
       <h3>Beyond code</h3>
       <p>🥋 Martial arts · 🥊 Boxing · 🏀 Basketball<br />🏹 Archery · 🎾 Tennis</p>
       <h3>Connect</h3>
