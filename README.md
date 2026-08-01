@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg" />
-  <img src="./assets/profile-header-dark.svg" alt="Yong — Engineering across boundaries" width="100%" />
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg" />
+    <img src="./assets/profile-header-dark.svg" alt="Yong — Engineering across boundaries" width="100%" />
+  </picture>
+</p>
 
 <p>
   <strong>Cross-Platform Software Engineer · Product Builder</strong><br />
@@ -13,14 +15,14 @@
   &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/yong-perrin-75671b405/">LinkedIn</a>
 </p>
 
-<p>
+<div>
   <strong>Reliable software across languages, runtimes, platforms, delivery systems, and human–agent workflows.</strong><br />
   <kbd>6+ years</kbd>&nbsp;
   <kbd>CI/CD &amp; testing</kbd>&nbsp;
   <kbd>SDKs &amp; tooling</kbd>&nbsp;
   <kbd>Diagnostics</kbd>&nbsp;
   <kbd>Agent engineering</kbd>
-</p>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake-dark.svg" />
