@@ -32,16 +32,18 @@
 </picture>
 
 <a id="engineering-toolbox"></a>
+<h3 align="center">🛠️ Languages &amp; tools</h3>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/toolbox-light.svg" />
-    <img src="./assets/toolbox-dark.svg" alt="Engineering toolbox: C#, C++, Java, Python, TypeScript, Windows, Android, iOS, WebGL, Unity, Unreal, Cocos, CI/CD, and SDKs" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,cpp,java,py,ts,unity,unreal,windows,androidstudio,apple,wasm,githubactions&amp;theme=dark&amp;perline=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cs,cpp,java,py,ts,unity,unreal,windows,androidstudio,apple,wasm,githubactions&amp;theme=light&amp;perline=12" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,ts,unity,unreal,windows,androidstudio,apple,wasm,githubactions&amp;theme=dark&amp;perline=12" alt="Languages and tools: C#, C++, Java, Python, TypeScript, Unity, Unreal, Windows, Android Studio, Apple platforms, WebAssembly, and GitHub Actions" width="760" />
   </picture>
 </p>
 
 <p align="center">
-  <sub>C# · C++ · Java · Python · TypeScript · Unity · Unreal · Cocos · Windows · Android · iOS · WebGL</sub>
+  <sub>Cocos · WebGL · native plugins · cross-platform delivery</sub>
 </p>
 
 ## Projects
@@ -64,18 +66,18 @@ Waggle is a software-first, Project-first governed Agent Harness / Agent Control
 <table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h3>What I share</h3>
+      <h3>🧭 What I share</h3>
       <p><strong>Engineering Across Boundaries</strong><br />cross-platform integration, SDKs, engine tooling, diagnostics, and lessons from real delivery constraints</p>
       <p><strong>Reliable Agents in Real Work</strong><br />Agent Teams, tool use, review, validation, observability, governance, and failure boundaries</p>
       <p><strong>From Workflow to Product</strong><br />turning ambiguous processes into maintainable systems shaped by evidence and feedback</p>
     </td>
     <td valign="top" width="50%">
-      <h3>How I work</h3>
+      <h3>⚙️ How I work</h3>
       <blockquote><strong>Reliable over merely clever. Evidence over claims. Simple paths for simple work. Explicit boundaries for complex systems.</strong></blockquote>
       <p>I care about software that can be understood, tested, reviewed, operated, and improved—not just demonstrated once. AI is an engineering multiplier—not a substitute for those fundamentals.</p>
-      <h3>Beyond code</h3>
+      <h3>🥋 Beyond code</h3>
       <p>🥋 Martial arts · 🥊 Boxing · 🏀 Basketball<br />🏹 Archery · 🎾 Tennis</p>
-      <h3>Connect</h3>
+      <h3>🔗 Connect</h3>
       <p>
         <a href="https://www.linkedin.com/in/yong-perrin-75671b405/"><img src="./assets/social/linkedin.svg" alt="LinkedIn" width="36" /></a>
         &nbsp;&nbsp;
