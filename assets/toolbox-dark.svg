@@ -9,19 +9,19 @@
     </g>
   </defs>
   <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
-    <g transform="translate(54 20)"><use href="#tile"/><text x="66" y="35" fill="#F0F6FC" font-size="22" font-weight="700">C#</text></g>
-    <g transform="translate(214 20)"><use href="#tile"/><text x="66" y="35" fill="#F0F6FC" font-size="22" font-weight="700">C++</text></g>
-    <g transform="translate(374 20)"><use href="#tile"/><path d="M44 36H84M49 29H79" stroke="#8DA9B8" stroke-width="2"/><text x="66" y="24" fill="#B1BAC4" font-size="13" font-weight="700">JAVA</text></g>
-    <g transform="translate(534 20)"><use href="#tile"/><text x="66" y="35" fill="#8DA9B8" font-size="19" font-weight="700">PYTHON</text></g>
-    <g transform="translate(694 20)"><use href="#tile"/><rect x="47" y="15" width="38" height="28" rx="4" fill="none" stroke="#8DA9B8" stroke-width="2"/><text x="66" y="35" fill="#F0F6FC" font-size="17" font-weight="700">TS</text></g>
-    <g transform="translate(854 20)"><use href="#tile"/><path d="M47 17L64 15V29H47V17ZM68 14L86 12V29H68V14ZM47 33H64V47L47 45V33ZM68 33H86V49L68 47V33Z" fill="#8DA9B8"/></g>
-    <g transform="translate(1014 20)"><use href="#tile"/><path d="M51 25H81M54 25L58 18M78 25L74 18M48 26V42M84 26V42" stroke="#8DA9B8" stroke-width="2" stroke-linecap="round"/><circle cx="58" cy="31" r="2" fill="#B89A65"/><circle cx="74" cy="31" r="2" fill="#B89A65"/></g>
+    <g transform="translate(54 20)"><use href="#tile"/><text x="66" y="35" fill="#A179DC" font-size="22" font-weight="700">C#</text></g>
+    <g transform="translate(214 20)"><use href="#tile"/><text x="66" y="35" fill="#659AD2" font-size="22" font-weight="700">C++</text></g>
+    <g transform="translate(374 20)"><use href="#tile"/><path d="M44 36H84M49 29H79" stroke="#F89820" stroke-width="2"/><text x="66" y="24" fill="#F89820" font-size="13" font-weight="700">JAVA</text></g>
+    <g transform="translate(534 20)"><use href="#tile"/><text x="66" y="35" fill="#4B8BBE" font-size="19" font-weight="700">PYTHON</text></g>
+    <g transform="translate(694 20)"><use href="#tile"/><rect x="47" y="15" width="38" height="28" rx="4" fill="#3178C6" stroke="#66A8E5" stroke-width="2"/><text x="66" y="35" fill="#FFFFFF" font-size="17" font-weight="700">TS</text></g>
+    <g transform="translate(854 20)"><use href="#tile"/><path d="M47 17L64 15V29H47V17ZM68 14L86 12V29H68V14ZM47 33H64V47L47 45V33ZM68 33H86V49L68 47V33Z" fill="#00A4EF"/></g>
+    <g transform="translate(1014 20)"><use href="#tile"/><path d="M51 25H81M54 25L58 18M78 25L74 18M48 26V42M84 26V42" stroke="#3DDC84" stroke-width="2" stroke-linecap="round"/><circle cx="58" cy="31" r="2" fill="#DCE775"/><circle cx="74" cy="31" r="2" fill="#DCE775"/></g>
 
-    <g transform="translate(54 100)"><use href="#tile"/><rect x="51" y="10" width="30" height="39" rx="7" fill="none" stroke="#8DA9B8" stroke-width="2"/><circle cx="66" cy="43" r="2" fill="#B89A65"/><text x="66" y="33" fill="#B1BAC4" font-size="13" font-weight="700">iOS</text></g>
-    <g transform="translate(214 100)"><use href="#tile"/><circle cx="66" cy="29" r="18" fill="none" stroke="#8DA9B8" stroke-width="2"/><path d="M48 29H84M66 11C71 16 74 22 74 29C74 36 71 42 66 47M66 11C61 16 58 22 58 29C58 36 61 42 66 47" stroke="#6F91A4" stroke-width="2"/><text x="66" y="34" fill="#F0F6FC" font-size="12" font-weight="700">GL</text></g>
+    <g transform="translate(54 100)"><use href="#tile"/><rect x="51" y="10" width="30" height="39" rx="7" fill="none" stroke="#D8DEE9" stroke-width="2"/><circle cx="66" cy="43" r="2" fill="#B89A65"/><text x="66" y="33" fill="#D8DEE9" font-size="13" font-weight="700">iOS</text></g>
+    <g transform="translate(214 100)"><use href="#tile"/><circle cx="66" cy="29" r="18" fill="none" stroke="#E34F26" stroke-width="2"/><path d="M48 29H84M66 11C71 16 74 22 74 29C74 36 71 42 66 47M66 11C61 16 58 22 58 29C58 36 61 42 66 47" stroke="#E34F26" stroke-width="2"/><text x="66" y="34" fill="#F0F6FC" font-size="12" font-weight="700">GL</text></g>
     <g transform="translate(374 100)"><use href="#tile"/><path d="M66 12L86 23L78 47L54 43L46 22L66 12ZM66 12L61 34L78 47M61 34L46 22M61 34L86 23" fill="none" stroke="#8DA9B8" stroke-width="2" stroke-linejoin="round"/></g>
     <g transform="translate(534 100)"><use href="#tile"/><circle cx="66" cy="29" r="19" fill="none" stroke="#8DA9B8" stroke-width="2"/><text x="66" y="37" fill="#F0F6FC" font-family="Georgia,serif" font-size="25" font-weight="700">U</text></g>
-    <g transform="translate(694 100)"><use href="#tile"/><path d="M66 12L84 22V42L66 52L48 42V22L66 12Z" fill="none" stroke="#8DA9B8" stroke-width="2"/><circle cx="58" cy="29" r="4" fill="#6F91A4"/><circle cx="74" cy="29" r="4" fill="#6F91A4"/><circle cx="66" cy="41" r="4" fill="#B89A65"/><path d="M61 32L65 38M71 32L67 38" stroke="#8DA9B8" stroke-width="2"/></g>
+    <g transform="translate(694 100)"><use href="#tile"/><path d="M66 12L84 22V42L66 52L48 42V22L66 12Z" fill="none" stroke="#55C2FF" stroke-width="2"/><circle cx="58" cy="29" r="4" fill="#55C2FF"/><circle cx="74" cy="29" r="4" fill="#55C2FF"/><circle cx="66" cy="41" r="4" fill="#B89A65"/><path d="M61 32L65 38M71 32L67 38" stroke="#55C2FF" stroke-width="2"/></g>
     <g transform="translate(854 100)"><use href="#tile"/><path d="M44 29H57M75 29H88M57 29L64 20M75 29L68 20M57 29L64 38M75 29L68 38" stroke="#8DA9B8" stroke-width="3" stroke-linecap="round"/><circle cx="66" cy="29" r="5" fill="#B89A65"/></g>
     <g transform="translate(1014 100)"><use href="#tile"/><path d="M46 18H40V40H46M86 18H92V40H86" stroke="#8DA9B8" stroke-width="2.5" stroke-linecap="round"/><path d="M53 34L66 19L79 34L66 43L53 34Z" fill="none" stroke="#6F91A4" stroke-width="2"/><text x="66" y="34" fill="#F0F6FC" font-size="10" font-weight="700">SDK</text></g>
   </g>

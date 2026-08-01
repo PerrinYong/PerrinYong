@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="#engineering-toolbox">Toolbox</a>
+  <a href="#user-content-engineering-toolbox">Toolbox</a>
   &nbsp;·&nbsp;
   <a href="#projects">Projects</a>
   &nbsp;·&nbsp;
@@ -21,42 +21,56 @@
   <a href="https://www.linkedin.com/in/yong-perrin-75671b405/">LinkedIn ↗</a>
 </p>
 
+<a id="engineering-toolbox"></a>
+<h3 align="center">🛠 Engineering toolbox</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/toolbox-light.svg" />
+    <img src="./assets/toolbox-dark.svg" alt="Engineering toolbox: C#, C++, Java, Python, TypeScript, Windows, Android, iOS, WebGL, Unity, Unreal, Cocos, CI/CD, and SDKs" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub><strong>Languages:</strong> C# · C++ · Java · Python · JavaScript / TypeScript</sub><br />
+  <sub><strong>Platforms:</strong> Windows · Android · iOS · WebGL</sub><br />
+  <sub><strong>Engines:</strong> Unity · Unreal · Cocos</sub><br />
+  <sub><strong>Systems:</strong> CI/CD · Automated testing · SDKs · Native plugins · Diagnostics · Observability · Agent review workflows</sub>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake.svg" alt="Animated snake moving through Yong's GitHub contribution grid." width="100%" />
+</picture>
+
 ## Engineering across boundaries
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
-      <img src="./assets/capabilities/cross-language.svg" alt="Cross-language" width="52" /><br />
-      <strong>Cross-language</strong><br />
-      <sub>C# · C++ · Java · Python</sub>
+    <td align="center">
+      <img src="./assets/capabilities/cross-language.svg" alt="Cross-language" width="40" /><br />
     </td>
-    <td align="center" width="34%">
-      <img src="./assets/capabilities/cross-platform.svg" alt="Cross-platform" width="52" /><br />
-      <strong>Cross-platform</strong><br />
-      <sub>Windows · Android · iOS · WebGL</sub>
+    <td align="center">
+      <img src="./assets/capabilities/cross-platform.svg" alt="Cross-platform" width="40" /><br />
     </td>
-    <td align="center" width="33%">
-      <img src="./assets/capabilities/engine-runtime.svg" alt="Engine and runtime" width="52" /><br />
-      <strong>Engine &amp; runtime</strong><br />
-      <sub>Unity · Unreal · Cocos</sub>
+    <td align="center">
+      <img src="./assets/capabilities/engine-runtime.svg" alt="Engine and runtime" width="40" /><br />
+    </td>
+    <td align="center">
+      <img src="./assets/capabilities/delivery-systems.svg" alt="Delivery systems" width="40" /><br />
+    </td>
+    <td align="center">
+      <img src="./assets/capabilities/agent-workflows.svg" alt="Agent workflows" width="40" /><br />
     </td>
   </tr>
 </table>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="./assets/capabilities/delivery-systems.svg" alt="Delivery systems" width="52" /><br />
-      <strong>Delivery systems</strong><br />
-      <sub>CI/CD · Automated testing · Diagnostics</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="./assets/capabilities/agent-workflows.svg" alt="Agent workflows" width="52" /><br />
-      <strong>Agent workflows</strong><br />
-      <sub>Responsibilities · Review · Verification</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <sub><strong>Cross-language</strong> · <strong>Cross-platform</strong> · <strong>Engine &amp; runtime</strong><br />
+  <strong>Delivery systems</strong> · <strong>Agent workflows</strong></sub>
+</p>
 
 I build where software gets difficult: at the boundaries between languages, runtimes, platforms, delivery environments, and human–agent collaboration.
 
@@ -78,36 +92,19 @@ For 6+ years, I have built CI/CD and automated testing systems, engine tooling, 
   </picture>
 </details>
 
-## Engineering toolbox
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/toolbox-light.svg" />
-    <img src="./assets/toolbox-dark.svg" alt="Engineering toolbox: C#, C++, Java, Python, TypeScript, Windows, Android, iOS, WebGL, Unity, Unreal, Cocos, CI/CD, and SDKs" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <sub><strong>Languages:</strong> C# · C++ · Java · Python · JavaScript / TypeScript</sub><br />
-  <sub><strong>Platforms:</strong> Windows · Android · iOS · WebGL</sub><br />
-  <sub><strong>Engines:</strong> Unity · Unreal · Cocos</sub><br />
-  <sub><strong>Systems:</strong> CI/CD · Automated testing · SDKs · Native plugins · Diagnostics · Observability · Agent review workflows</sub>
-</p>
-
 ## Projects
 
-### [CrewBee](https://github.com/CrewBeeLab/CrewBee)
+### [CrewBee](https://github.com/CrewBeeLab/CrewBee) · `Agent Teams`
 
 CrewBee turns prompts, agents, rules, review flows, and completion criteria into maintainable Agent Team assets. Its built-in Coding Team supports owner-led work, focused implementation, independent review, and evidence-backed completion.
 
 [Website](https://www.crewbee.art) · [Installation](https://github.com/CrewBeeLab/CrewBee/blob/main/docs/guide/installation.md)
 
-### [PilotDeck](https://github.com/PilotDeckAgentLabs/PilotDeck)
+### [PilotDeck](https://github.com/PilotDeckAgentLabs/PilotDeck) · `ProjectOps × AgentOps`
 
 PilotDeck is a lightweight ProjectOps × AgentOps console for individual developers and internal teams. It brings projects, runs, events, actions, audit trails, and token costs into one observable operating layer.
 
-### [Waggle](https://github.com/CrewBeeLab/Waggle)
+### [Waggle](https://github.com/CrewBeeLab/Waggle) · `Agent Control Plane`
 
 Waggle is a software-first, Project-first governed Agent Harness / Agent Control Plane that turns product software into agent-operable skills. It runs AgentPackages inside Projects with explicit RunPermissionBoundaries, Tool Proxy enforcement, product-owned confirmations, and audit evidence—so teams can ship Agent capabilities without giving up business control.
 
@@ -123,11 +120,20 @@ Waggle is a software-first, Project-first governed Agent Harness / Agent Control
 
 I care about software that can be understood, tested, reviewed, operated, and improved—not just demonstrated once.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake.svg" alt="Animated snake moving through Yong's GitHub contribution grid." width="100%" />
-</picture>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>Beyond code</strong><br /><br />
+      <span>🥋 Martial arts &nbsp;·&nbsp; 🥊 Boxing &nbsp;·&nbsp; 🏀 Basketball<br />🏹 Archery &nbsp;·&nbsp; 🎾 Tennis</span>
+    </td>
+    <td align="center" width="50%">
+      <strong>Connect</strong><br /><br />
+      <a href="https://www.linkedin.com/in/yong-perrin-75671b405/"><img src="./assets/social/linkedin.svg" alt="LinkedIn" width="36" /></a>
+      &nbsp;&nbsp;
+      <a href="mailto:PerrinYong@163.com"><img src="./assets/social/mail.svg" alt="Email" width="36" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
