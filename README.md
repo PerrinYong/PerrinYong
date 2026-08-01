@@ -16,8 +16,7 @@
 </p>
 
 <p>
-  <strong>Reliable software across languages, runtimes, platforms, delivery systems, and human–agent workflows.</strong>
-  &nbsp;
+  <strong>Reliable software across languages, runtimes, platforms, delivery systems, and human–agent workflows.</strong><br />
   <kbd>6+ years</kbd>&nbsp;
   <kbd>CI/CD &amp; testing</kbd>&nbsp;
   <kbd>SDKs &amp; tooling</kbd>&nbsp;
