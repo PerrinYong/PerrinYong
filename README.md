@@ -44,17 +44,17 @@
 
 ### [CrewBee](https://github.com/CrewBeeLab/CrewBee) · `Agent Teams`
 
-CrewBee turns prompts, agents, rules, review flows, and completion criteria into maintainable Agent Team assets. Its built-in Coding Team supports owner-led work, focused implementation, independent review, and evidence-backed completion.
+Reusable Agent Teams with explicit roles, review flows, and evidence-backed completion.
 
 [Website](https://www.crewbee.art) · [Installation](https://github.com/CrewBeeLab/CrewBee/blob/main/docs/guide/installation.md)
 
 ### [PilotDeck](https://github.com/PilotDeckAgentLabs/PilotDeck) · `ProjectOps × AgentOps`
 
-PilotDeck is a lightweight ProjectOps × AgentOps console for individual developers and internal teams. It brings projects, runs, events, actions, audit trails, and token costs into one observable operating layer.
+A lightweight console for observing projects, Agent runs, actions, audit trails, and token costs.
 
 ### [Waggle](https://github.com/CrewBeeLab/Waggle) · `Agent Control Plane`
 
-Waggle is a software-first, Project-first governed Agent Harness / Agent Control Plane that turns product software into agent-operable skills. It runs AgentPackages inside Projects with explicit RunPermissionBoundaries, Tool Proxy enforcement, product-owned confirmations, and audit evidence—so teams can ship Agent capabilities without giving up business control.
+A governed control plane that exposes product capabilities to Agents through permission boundaries, confirmations, tool enforcement, and audit evidence.
 
 <a id="what-i-share"></a>
 <table align="center" width="100%">
