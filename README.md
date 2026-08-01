@@ -15,9 +15,7 @@
   &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/yong-perrin-75671b405/">LinkedIn ↗</a></sub>
 </p>
 
-## Engineering across boundaries
-
-**I build reliable software where languages, runtimes, platforms, delivery systems, and human–agent collaboration meet.**
+**Reliable software across languages, runtimes, platforms, delivery systems, and human–agent workflows.**
 
 <p>
   <kbd>6+ years</kbd>&nbsp;
@@ -45,7 +43,7 @@
 </p>
 
 <p align="center">
-  <sub>C# · C++ · Java · Python · TypeScript &nbsp;|&nbsp; Unity · Unreal · Cocos &nbsp;|&nbsp; Windows · Android · iOS · WebGL</sub>
+  <sub>C# · C++ · Java · Python · TypeScript · Unity · Unreal · Cocos · Windows · Android · iOS · WebGL</sub>
 </p>
 
 ## Projects
