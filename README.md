@@ -4,8 +4,6 @@
   <img src="./assets/profile-header-dark.svg" alt="Yong — Engineering across boundaries" width="100%" />
 </picture>
 
-<h1>Hi, I'm Yong</h1>
-
 <p>
   <strong>Cross-Platform Software Engineer · Product Builder</strong><br />
   <em>Turning complex workflows into reliable software.</em>
