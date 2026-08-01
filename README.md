@@ -8,10 +8,7 @@
 
 <p align="center">
   <strong>Cross-Platform Software Engineer &amp; Product Builder</strong><br />
-  <em>Turning complex workflows into reliable software.</em>
-</p>
-
-<p align="center">
+  <em>Turning complex workflows into reliable software.</em><br /><br />
   <a href="#user-content-engineering-toolbox">Toolbox</a>
   &nbsp;·&nbsp;
   <a href="#projects">Projects</a>
@@ -22,8 +19,6 @@
 </p>
 
 <a id="engineering-toolbox"></a>
-<h3 align="center">🛠 Engineering toolbox</h3>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox-dark.svg" />
@@ -32,22 +27,14 @@
   </picture>
 </p>
 
-<p align="center">
-  <sub><strong>Languages:</strong> C# · C++ · Java · Python · JavaScript / TypeScript</sub><br />
-  <sub><strong>Platforms:</strong> Windows · Android · iOS · WebGL</sub><br />
-  <sub><strong>Engines:</strong> Unity · Unreal · Cocos</sub><br />
-  <sub><strong>Systems:</strong> CI/CD · Automated testing · SDKs · Native plugins · Diagnostics · Observability · Agent review workflows</sub>
+<p>
+  <sub><strong>Languages:</strong> C# · C++ · Java · Python · JavaScript / TypeScript &nbsp;·&nbsp; <strong>Platforms:</strong> Windows · Android · iOS · WebGL</sub><br />
+  <sub><strong>Engines:</strong> Unity · Unreal · Cocos &nbsp;·&nbsp; <strong>Systems:</strong> CI/CD · Automated testing · SDKs · Native plugins · Diagnostics · Observability · Agent review workflows</sub>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake.svg" alt="Animated snake moving through Yong's GitHub contribution grid." width="100%" />
-</picture>
 
 ## Engineering across boundaries
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
     <td align="center">
       <img src="./assets/capabilities/cross-language.svg" alt="Cross-language" width="40" /><br />
@@ -67,7 +54,7 @@
   </tr>
 </table>
 
-<p align="center">
+<p>
   <sub><strong>Cross-language</strong> · <strong>Cross-platform</strong> · <strong>Engine &amp; runtime</strong><br />
   <strong>Delivery systems</strong> · <strong>Agent workflows</strong></sub>
 </p>
@@ -81,6 +68,12 @@ For 6+ years, I have built CI/CD and automated testing systems, engine tooling, 
 <p align="center">
   <code>complex workflow → explicit model → reliable system → reusable asset</code>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake.svg" alt="Animated snake moving through Yong's GitHub contribution grid." width="100%" />
+</picture>
 
 <details>
   <summary><strong>How these capabilities connect</strong></summary>
