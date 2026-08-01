@@ -12,7 +12,7 @@
   &nbsp;·&nbsp; <a href="#projects">Projects</a>
   &nbsp;·&nbsp; <a href="#user-content-engineering-toolbox">Toolbox</a>
   &nbsp;·&nbsp; <a href="#user-content-what-i-share">What I share</a>
-  &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/yong-perrin-75671b405/">LinkedIn ↗</a>
+  &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/yong-perrin-75671b405/">LinkedIn</a>
 </p>
 
 <p>
