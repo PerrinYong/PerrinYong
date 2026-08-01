@@ -18,41 +18,7 @@
   <a href="https://www.linkedin.com/in/yong-perrin-75671b405/">LinkedIn ↗</a>
 </p>
 
-<a id="engineering-toolbox"></a>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/toolbox-light.svg" />
-    <img src="./assets/toolbox-dark.svg" alt="Engineering toolbox: C#, C++, Java, Python, TypeScript, Windows, Android, iOS, WebGL, Unity, Unreal, Cocos, CI/CD, and SDKs" width="100%" />
-  </picture>
-</p>
-
-<p>
-  <sub><strong>Languages:</strong> C# · C++ · Java · Python · JavaScript / TypeScript &nbsp;·&nbsp; <strong>Platforms:</strong> Windows · Android · iOS · WebGL</sub><br />
-  <sub><strong>Engines:</strong> Unity · Unreal · Cocos &nbsp;·&nbsp; <strong>Systems:</strong> CI/CD · Automated testing · SDKs · Native plugins · Diagnostics · Observability · Agent review workflows</sub>
-</p>
-
 ## Engineering across boundaries
-
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img src="./assets/capabilities/cross-language.svg" alt="Cross-language" width="40" /><br />
-    </td>
-    <td align="center">
-      <img src="./assets/capabilities/cross-platform.svg" alt="Cross-platform" width="40" /><br />
-    </td>
-    <td align="center">
-      <img src="./assets/capabilities/engine-runtime.svg" alt="Engine and runtime" width="40" /><br />
-    </td>
-    <td align="center">
-      <img src="./assets/capabilities/delivery-systems.svg" alt="Delivery systems" width="40" /><br />
-    </td>
-    <td align="center">
-      <img src="./assets/capabilities/agent-workflows.svg" alt="Agent workflows" width="40" /><br />
-    </td>
-  </tr>
-</table>
 
 <p>
   <sub><strong>Cross-language</strong> · <strong>Cross-platform</strong> · <strong>Engine &amp; runtime</strong><br />
@@ -75,15 +41,19 @@ For 6+ years, I have built CI/CD and automated testing systems, engine tooling, 
   <img src="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake.svg" alt="Animated snake moving through Yong's GitHub contribution grid." width="100%" />
 </picture>
 
-<details>
-  <summary><strong>How these capabilities connect</strong></summary>
-  <br />
+<a id="engineering-toolbox"></a>
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/capability-topology-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/capability-topology-light.svg" />
-    <img src="./assets/capability-topology-dark.svg" alt="Capability map connecting cross-language, cross-platform, engine and runtime, delivery systems, and agent workflows to reliable software." width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/toolbox-light.svg" />
+    <img src="./assets/toolbox-dark.svg" alt="Engineering toolbox: C#, C++, Java, Python, TypeScript, Windows, Android, iOS, WebGL, Unity, Unreal, Cocos, CI/CD, and SDKs" width="100%" />
   </picture>
-</details>
+</p>
+
+<p>
+  <sub><strong>Languages:</strong> C# · C++ · Java · Python · JavaScript / TypeScript &nbsp;·&nbsp; <strong>Platforms:</strong> Windows · Android · iOS · WebGL</sub><br />
+  <sub><strong>Engines:</strong> Unity · Unreal · Cocos &nbsp;·&nbsp; <strong>Systems:</strong> CI/CD · Automated testing · SDKs · Native plugins · Diagnostics · Observability · Agent review workflows</sub>
+</p>
 
 ## Projects
 
