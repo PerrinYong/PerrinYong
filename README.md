@@ -15,9 +15,8 @@
   &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/yong-perrin-75671b405/">LinkedIn ↗</a></sub>
 </p>
 
-**Reliable software across languages, runtimes, platforms, delivery systems, and human–agent workflows.**
-
-<p>
+<p align="center">
+  <strong>Reliable software across languages, runtimes, platforms, delivery systems, and human–agent workflows.</strong><br />
   <kbd>6+ years</kbd>&nbsp;
   <kbd>CI/CD &amp; testing</kbd>&nbsp;
   <kbd>SDKs &amp; tooling</kbd>&nbsp;
