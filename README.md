@@ -25,8 +25,6 @@
   <kbd>Agent engineering</kbd>
 </p>
 
-> **AI is an engineering multiplier—not a substitute for software engineering fundamentals.**
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PerrinYong/PerrinYong/output/github-contribution-grid-snake.svg" />
@@ -74,7 +72,7 @@ Waggle is a software-first, Project-first governed Agent Harness / Agent Control
     <td valign="top" width="50%">
       <h3>How I work</h3>
       <blockquote><strong>Reliable over merely clever. Evidence over claims. Simple paths for simple work. Explicit boundaries for complex systems.</strong></blockquote>
-      <p>I care about software that can be understood, tested, reviewed, operated, and improved—not just demonstrated once.</p>
+      <p>I care about software that can be understood, tested, reviewed, operated, and improved—not just demonstrated once. AI is an engineering multiplier—not a substitute for those fundamentals.</p>
       <h3>Beyond code</h3>
       <p>🥋 Martial arts · 🥊 Boxing · 🏀 Basketball<br />🏹 Archery · 🎾 Tennis</p>
       <h3>Connect</h3>
