@@ -50,7 +50,7 @@ An evolving personal knowledge network and Graph-first blog, built from real not
 
 **See the trees. See the forest.**
 
-[Live Knowledge Network](https://pystone.net/?utm_source=github&utm_medium=profile&utm_campaign=see_the_forest) · [Concept & Architecture](https://gist.github.com/PerrinYong/c9c231cb1a96c22a7244c67d817f5997)
+[Live Knowledge Network](https://pystone.net/?utm_source=github&utm_medium=profile&utm_campaign=see_the_forest) · [Concept & Architecture](https://gist.github.com/PerrinYong/c9c231cb1a96c22a7244c67d817f5997#file-see-the-forest-en-md)
 
 ### [CrewBee](https://github.com/CrewBeeLab/CrewBee) · `Agent Teams`
 
