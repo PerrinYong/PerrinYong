@@ -52,6 +52,12 @@ An evolving personal knowledge network and Graph-first blog, built from real not
 
 [Live Knowledge Network](https://pystone.net/?utm_source=github&utm_medium=profile&utm_campaign=see_the_forest) · [Concept & Architecture](https://gist.github.com/PerrinYong/c9c231cb1a96c22a7244c67d817f5997#file-see-the-forest-en-md)
 
+<p align="center">
+  <a href="https://pystone.net/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=see_the_forest&amp;utm_content=knowledge_network_preview">
+    <img src="./assets/see-the-forest-knowledge-network.png" alt="See the Forest knowledge network at pystone.net" width="100%" />
+  </a>
+</p>
+
 ### [CrewBee](https://github.com/CrewBeeLab/CrewBee) · `Agent Teams`
 
 Reusable Agent Teams with explicit roles, review flows, and evidence-backed completion.
