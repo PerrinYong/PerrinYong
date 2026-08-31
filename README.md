@@ -44,6 +44,14 @@
 
 ## Projects
 
+### [See the Forest · 见林](https://pystone.net/?utm_source=github&utm_medium=profile&utm_campaign=see_the_forest) · `A Knowledge Evolution System`
+
+An evolving personal knowledge network and Graph-first blog, built from real notes, links, and continuing knowledge work.
+
+**See the trees. See the forest.**
+
+[Live Knowledge Network](https://pystone.net/?utm_source=github&utm_medium=profile&utm_campaign=see_the_forest) · [Concept & Architecture](https://gist.github.com/PerrinYong/c9c231cb1a96c22a7244c67d817f5997)
+
 ### [CrewBee](https://github.com/CrewBeeLab/CrewBee) · `Agent Teams`
 
 Reusable Agent Teams with explicit roles, review flows, and evidence-backed completion.
@@ -66,6 +74,7 @@ A governed control plane that exposes product capabilities to Agents through per
       <p><strong>Engineering Across Boundaries</strong><br />cross-platform integration, SDKs, engine tooling, diagnostics, and lessons from real delivery constraints</p>
       <p><strong>Reliable Agents in Real Work</strong><br />Agent Teams, tool use, review, validation, observability, governance, and failure boundaries</p>
       <p><strong>From Workflow to Product</strong><br />turning ambiguous processes into maintainable systems shaped by evidence and feedback</p>
+      <p><strong>Knowledge in Evolution</strong><br />building knowledge into networks that can connect, evolve, and remain useful to both people and Agents</p>
     </td>
     <td valign="top" width="50%">
       <h3>How I work</h3>
