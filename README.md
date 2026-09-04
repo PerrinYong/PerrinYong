@@ -1,9 +1,7 @@
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg" />
-    <img src="./assets/profile-header-dark.svg" alt="Yong — Engineering across boundaries" width="100%" />
-  </picture>
+<p align="center">
+  <a href="https://pystone.net/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=see_the_forest&amp;utm_content=hero">
+    <img src="./assets/seetheforest-hero.png" alt="See the Forest · 见林 — A Knowledge Evolution System" width="100%" />
+  </a>
 </p>
 
 <p>
