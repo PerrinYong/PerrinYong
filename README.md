@@ -1,6 +1,18 @@
 <p align="center">
   <a href="https://pystone.net/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=see_the_forest&amp;utm_content=hero">
-    <img src="./assets/seetheforest-hero.png" alt="See the Forest · 见林 — A Knowledge Evolution System" width="100%" />
+    <img src="./assets/seetheforest-hero.png" alt="See the Forest · 见林 — A Knowledge Evolution System" width="65%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://seetheforest.net/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=see_the_forest&amp;utm_content=xiaoyao_greeting">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/xiaoyao-idle-poster.jpg" />
+      <img src="./assets/xiaoyao-idle-github.gif" alt="见林小妖 · Xiaoyao gently waves hello — visit See the Forest" width="24%" align="top" />
+    </picture>
+  </a>
+  <a href="https://pystone.net/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=see_the_forest&amp;utm_content=knowledge_network_preview">
+    <img src="./assets/see-the-forest-knowledge-network-20260928.png" alt="See the Forest knowledge network at pystone.net" width="74%" align="top" />
   </a>
 </p>
 
@@ -49,18 +61,6 @@ A Graph-first knowledge evolution and blogging system for turning connected note
 **See the trees. See the forest.**
 
 [Product Website](https://seetheforest.net/?utm_source=github&utm_medium=profile&utm_campaign=see_the_forest&utm_content=product_website) · [Live Knowledge Network](https://pystone.net/?utm_source=github&utm_medium=profile&utm_campaign=see_the_forest&utm_content=live_network) · [Concept & Architecture](https://gist.github.com/PerrinYong/c9c231cb1a96c22a7244c67d817f5997#file-see-the-forest-en-md)
-
-<p align="center">
-  <a href="https://seetheforest.net/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=see_the_forest&amp;utm_content=xiaoyao_greeting">
-    <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/xiaoyao-idle-poster.jpg" />
-      <img src="./assets/xiaoyao-idle-github.gif" alt="见林小妖 · Xiaoyao gently waves hello — visit See the Forest" width="24%" align="top" />
-    </picture>
-  </a>
-  <a href="https://pystone.net/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=see_the_forest&amp;utm_content=knowledge_network_preview">
-    <img src="./assets/see-the-forest-knowledge-network-20260928.png" alt="See the Forest knowledge network at pystone.net" width="74%" align="top" />
-  </a>
-</p>
 
 ### [CrewBee](https://github.com/CrewBeeLab/CrewBee) · `Agent Teams`
 
