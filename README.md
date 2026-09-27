@@ -54,16 +54,11 @@ A Graph-first knowledge evolution and blogging system for turning connected note
   <a href="https://seetheforest.net/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=see_the_forest&amp;utm_content=xiaoyao_greeting">
     <picture>
       <source media="(prefers-reduced-motion: reduce)" srcset="./assets/xiaoyao-idle-poster.jpg" />
-      <img src="./assets/xiaoyao-idle-github.gif" alt="见林小妖 · Xiaoyao gently waves hello — visit See the Forest" width="180" height="240" />
+      <img src="./assets/xiaoyao-idle-github.gif" alt="见林小妖 · Xiaoyao gently waves hello — visit See the Forest" width="24%" align="top" />
     </picture>
   </a>
-  <br />
-  <sub>见林小妖 · Meet Xiaoyao</sub>
-</p>
-
-<p align="center">
   <a href="https://pystone.net/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=see_the_forest&amp;utm_content=knowledge_network_preview">
-    <img src="./assets/see-the-forest-knowledge-network.png" alt="See the Forest knowledge network at pystone.net" width="100%" />
+    <img src="./assets/see-the-forest-knowledge-network-20260928.png" alt="See the Forest knowledge network at pystone.net" width="74%" align="top" />
   </a>
 </p>
 
